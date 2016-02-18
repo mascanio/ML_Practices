@@ -1,0 +1,38 @@
+for i = 1:m
+	[a1, a2, z2, a3] = redSimple(Theta1, Theta2, X(i,:));
+
+	delta3 = a3 - y(i,:);	
+	
+	aux = Theta2(:,2:end);
+
+	delta2 = (aux' * delta3')' .* (sigmoide(z2) .* (1-sigmoide(z2)));
+
+	grad1 += delta2' * a1;
+	grad2 += delta3' * a2;
+
+endfor
+
+#	[a1, a2, z2, valoresRed] = redSimple(Theta1, Theta2, X(i,:));
+#	delta3 = valoresRed' - y(i,:);
+#	grad2 = delta3' * a2';
+
+#	aux = (Theta2' * delta3');
+#	aux = aux(2:end,:);
+#	delta2 = aux .* derSigmoide(z2);
+#	grad1 = delta2 * a1';
+
+
+
+
+delta3 = valoresRed - y;
+grad2 = delta3 * a2';
+
+aux = (Theta2' * delta3);
+aux = aux(2:end,:);
+delta2 = aux .* derSigmoide(z2);
+grad1 = delta2 * a1';
+
+grad1 = grad1 .* (1/m);
+grad2 = grad2 .* (1/m);
+
+grad = [grad1(:); grad2(:)];

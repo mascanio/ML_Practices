@@ -1,0 +1,103 @@
+RESULTADOS DE PR1AV
+
+se observa que para valores grandes de alpha no se obtienen resultados adecuados,
+pero a partir de 0.03 los resultados practicamente no varian
+
+alpha =  0.30000
+tetaVector =
+
+  -6.6891e+139
+  -1.3735e+155
+  -1.3735e+155
+
+ans =  9.9970e+154
+---------------
+
+---------------
+
+alpha =  0.10000
+tetaVector =
+
+   3.2924e+138
+   6.1867e+153
+   6.1867e+153
+
+ans = -4.5031e+153
+---------------
+
+---------------
+
+alpha =  0.030000
+tetaVector =
+
+   3.4041e+05
+   1.1063e+05
+  -6.6495e+03
+
+ans =  2.8612e+05
+---------------
+
+---------------
+
+alpha =  0.010000
+tetaVector =
+
+   3.4041e+05
+   1.1063e+05
+  -6.6495e+03
+
+ans =  2.8612e+05
+---------------
+
+---------------
+
+alpha =  0.0030000
+tetaVector =
+
+   3.4041e+05
+   1.1063e+05
+  -6.6495e+03
+
+ans =  2.8612e+05
+---------------
+
+---------------
+
+alpha =  0.0010000
+tetaVector =
+
+   3.4041e+05
+   1.1063e+05
+  -6.6494e+03
+
+ans =  2.8612e+05
+---------------
+
+---------------
+
+alpha =  3.0000e-04
+tetaVector =
+
+   3.4041e+05
+   1.1063e+05
+  -6.6494e+03
+
+ans =  2.8612e+05
+---------------
+
+---------------
+
+alpha =  1.0000e-04
+tetaVector =
+
+   3.4041e+05
+   1.1063e+05
+  -6.6493e+03
+
+ans =  2.8612e+05
+---------------
+
+COMPARACION CON PR1AVNORMAL
+
+Se observa que el resultado para el caso probado [1;1600;3] (1600 pies, 3 habitaciones) es el mismo, aunque los valores de teta difiran 
+

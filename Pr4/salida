@@ -1,0 +1,21 @@
+GNU Octave, version 3.6.2
+Copyright (C) 2012 John W. Eaton and others.
+This is free software; see the source code for copying conditions.
+There is ABSOLUTELY NO WARRANTY; not even for MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE.  For details, type `warranty'.
+
+Octave was configured for "x86_64-pc-linux-gnu".
+
+Additional information about Octave is available at http://www.octave.org.
+
+Please contribute if you find this software useful.
+For more information, visit http://www.octave.org/help-wanted.html
+
+Read http://www.octave.org/bugs.html to learn how to submit bug reports.
+
+For information about changes from previous versions, type `news'.
+
+Iteration     1 | Cost: 3.283958e+00Iteration     2 | Cost: 3.244501e+00Iteration     3 | Cost: 3.218833e+00Iteration     4 | Cost: 2.799619e+00Iteration     5 | Cost: 2.467478e+00
+Lmabda: 0.001000 Iteraciones: 5 Porcentaje de aciertos: 52.540000
+Iteration     1 | Cost: 2.299623e+00Iteration     2 | Cost: 1.916786e+00Iteration     3 | Cost: 1.746575e+00Iteration     4 | Cost: 1.484218e+00Iteration     5 | Cost: 1.410423e+00
+Lmabda: 0.001000 Iteraciones: 10 Porcentaje de aciertos: 81.140000

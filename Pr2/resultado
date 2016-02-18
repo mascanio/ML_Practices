@@ -1,0 +1,661 @@
+# Created by Octave 3.6.2, Wed Nov 05 18:35:58 2014 CET <miguel@Debian>
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+100
+
+
+# name: cost
+# type: scalar
+0.6866783417304769
+
+
+# name: porcentaje
+# type: scalar
+50.84745762711864
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+50
+
+
+# name: cost
+# type: scalar
+0.6816904617113786
+
+
+# name: porcentaje
+# type: scalar
+53.38983050847458
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+25
+
+
+# name: cost
+# type: scalar
+0.6729292486682719
+
+
+# name: porcentaje
+# type: scalar
+59.32203389830508
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+10
+
+
+# name: cost
+# type: scalar
+0.6635306640444877
+
+
+# name: porcentaje
+# type: scalar
+61.86440677966102
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+5
+
+
+# name: cost
+# type: scalar
+0.6461423805304938
+
+
+# name: porcentaje
+# type: scalar
+68.64406779661016
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+3
+
+
+# name: cost
+# type: scalar
+0.6097918724883679
+
+
+# name: porcentaje
+# type: scalar
+73.72881355932203
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+1
+
+
+# name: cost
+# type: scalar
+0.5420550710850257
+
+
+# name: porcentaje
+# type: scalar
+81.35593220338984
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+0.5
+
+
+# name: cost
+# type: scalar
+0.4960905410312907
+
+
+# name: porcentaje
+# type: scalar
+81.35593220338984
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+0.05
+
+
+# name: cost
+# type: scalar
+0.3816947438084125
+
+
+# name: porcentaje
+# type: scalar
+83.89830508474576
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+0.005
+
+
+# name: cost
+# type: scalar
+0.3290566702132824
+
+
+# name: porcentaje
+# type: scalar
+83.89830508474576
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+100
+
+
+# name: cost
+# type: scalar
+0.6866783417304769
+
+
+# name: porcentaje
+# type: scalar
+50.84745762711864
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+50
+
+
+# name: cost
+# type: scalar
+0.6816904617113786
+
+
+# name: porcentaje
+# type: scalar
+53.38983050847458
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+25
+
+
+# name: cost
+# type: scalar
+0.6729292486682719
+
+
+# name: porcentaje
+# type: scalar
+59.32203389830508
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+10
+
+
+# name: cost
+# type: scalar
+0.6635306640444877
+
+
+# name: porcentaje
+# type: scalar
+61.86440677966102
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+5
+
+
+# name: cost
+# type: scalar
+0.6461423805304938
+
+
+# name: porcentaje
+# type: scalar
+68.64406779661016
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+3
+
+
+# name: cost
+# type: scalar
+0.6097918724883679
+
+
+# name: porcentaje
+# type: scalar
+73.72881355932203
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+1
+
+
+# name: cost
+# type: scalar
+0.5420550710850257
+
+
+# name: porcentaje
+# type: scalar
+81.35593220338984
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+0.5
+
+
+# name: cost
+# type: scalar
+0.4960905410312907
+
+
+# name: porcentaje
+# type: scalar
+81.35593220338984
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+0.05
+
+
+# name: cost
+# type: scalar
+0.3816947438084125
+
+
+# name: porcentaje
+# type: scalar
+83.89830508474576
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+0.005
+
+
+# name: cost
+# type: scalar
+0.3290566702132824
+
+
+# name: porcentaje
+# type: scalar
+83.89830508474576
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+100
+
+
+# name: cost
+# type: scalar
+0.6866783417304769
+
+
+# name: porcentaje
+# type: scalar
+50.84745762711864
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+50
+
+
+# name: cost
+# type: scalar
+0.6816904617113786
+
+
+# name: porcentaje
+# type: scalar
+53.38983050847458
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+25
+
+
+# name: cost
+# type: scalar
+0.6729292486682719
+
+
+# name: porcentaje
+# type: scalar
+59.32203389830508
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+10
+
+
+# name: cost
+# type: scalar
+0.6635306640444877
+
+
+# name: porcentaje
+# type: scalar
+61.86440677966102
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+5
+
+
+# name: cost
+# type: scalar
+0.6461423805304938
+
+
+# name: porcentaje
+# type: scalar
+68.64406779661016
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+3
+
+
+# name: cost
+# type: scalar
+0.6097918724883679
+
+
+# name: porcentaje
+# type: scalar
+73.72881355932203
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+1
+
+
+# name: cost
+# type: scalar
+0.5420550710850257
+
+
+# name: porcentaje
+# type: scalar
+81.35593220338984
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+0.5
+
+
+# name: cost
+# type: scalar
+0.4960905410312907
+
+
+# name: porcentaje
+# type: scalar
+81.35593220338984
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+0.05
+
+
+# name: cost
+# type: scalar
+0.3816947438084125
+
+
+# name: porcentaje
+# type: scalar
+83.89830508474576
+
+
+
+
+# name: r
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: lambda
+# type: scalar
+0.005
+
+
+# name: cost
+# type: scalar
+0.3290566702132824
+
+
+# name: porcentaje
+# type: scalar
+83.89830508474576
+
+
+
+

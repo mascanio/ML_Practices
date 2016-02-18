@@ -1,0 +1,817 @@
+GNU Octave, version 3.6.2
+Copyright (C) 2012 John W. Eaton and others.
+This is free software; see the source code for copying conditions.
+There is ABSOLUTELY NO WARRANTY; not even for MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE.  For details, type `warranty'.
+
+Octave was configured for "x86_64-pc-linux-gnu".
+
+Additional information about Octave is available at http://www.octave.org.
+
+Please contribute if you find this software useful.
+For more information, visit http://www.octave.org/help-wanted.html
+
+Read http://www.octave.org/bugs.html to learn how to submit bug reports.
+
+For information about changes from previous versions, type `news'.
+
+Iteration     1 | Cost: 3.294677e+00Iteration     2 | Cost: 3.234140e+00Iteration     3 | Cost: 3.201464e+00Iteration     4 | Cost: 2.622603e+00Iteration     5 | Cost: 2.259403e+00
+Lmabda: 0.001000 Iteraciones: 5 Porcentaje de aciertos: 57.180000
+Iteration     1 | Cost: 2.045166e+00Iteration     2 | Cost: 1.781002e+00Iteration     3 | Cost: 1.602189e+00Iteration     4 | Cost: 1.490760e+00Iteration     5 | Cost: 1.354412e+00
+Lmabda: 0.001000 Iteraciones: 10 Porcentaje de aciertos: 81.040000
+Iteration     1 | Cost: 1.305221e+00Iteration     2 | Cost: 1.183934e+00Iteration     3 | Cost: 1.128806e+00Iteration     4 | Cost: 1.009204e+00Iteration     5 | Cost: 8.733498e-01
+Lmabda: 0.001000 Iteraciones: 15 Porcentaje de aciertos: 88.380000
+Iteration     1 | Cost: 8.362776e-01Iteration     2 | Cost: 7.857512e-01Iteration     3 | Cost: 7.662559e-01Iteration     4 | Cost: 7.448969e-01Iteration     5 | Cost: 7.168569e-01
+Lmabda: 0.001000 Iteraciones: 20 Porcentaje de aciertos: 90.620000
+Iteration     1 | Cost: 7.072584e-01Iteration     2 | Cost: 6.961952e-01Iteration     3 | Cost: 6.725743e-01Iteration     4 | Cost: 6.388414e-01Iteration     5 | Cost: 6.141315e-01
+Lmabda: 0.001000 Iteraciones: 25 Porcentaje de aciertos: 91.960000
+Iteration     1 | Cost: 6.061228e-01Iteration     2 | Cost: 5.922754e-01Iteration     3 | Cost: 5.858491e-01Iteration     4 | Cost: 5.821663e-01Iteration     5 | Cost: 5.426264e-01
+Lmabda: 0.001000 Iteraciones: 30 Porcentaje de aciertos: 92.620000
+Iteration     1 | Cost: 5.341989e-01Iteration     2 | Cost: 5.292828e-01Iteration     3 | Cost: 5.185039e-01Iteration     4 | Cost: 5.063154e-01Iteration     5 | Cost: 4.943854e-01
+Lmabda: 0.001000 Iteraciones: 35 Porcentaje de aciertos: 93.520000
+Iteration     1 | Cost: 4.876645e-01Iteration     2 | Cost: 4.812549e-01Iteration     3 | Cost: 4.741227e-01Iteration     4 | Cost: 4.684385e-01Iteration     5 | Cost: 4.619790e-01
+Lmabda: 0.001000 Iteraciones: 40 Porcentaje de aciertos: 93.900000
+Iteration     1 | Cost: 4.530690e-01Iteration     2 | Cost: 4.500157e-01Iteration     3 | Cost: 4.456964e-01Iteration     4 | Cost: 4.414206e-01Iteration     5 | Cost: 4.387174e-01
+Lmabda: 0.001000 Iteraciones: 45 Porcentaje de aciertos: 94.360000
+Iteration     1 | Cost: 4.366217e-01Iteration     2 | Cost: 4.345787e-01Iteration     3 | Cost: 4.309231e-01Iteration     4 | Cost: 3.935817e-01Iteration     5 | Cost: 3.465703e-01
+Lmabda: 0.001000 Iteraciones: 50 Porcentaje de aciertos: 95.560000
+Iteration     1 | Cost: 3.343314e-01Iteration     2 | Cost: 3.294017e-01Iteration     3 | Cost: 3.265563e-01Iteration     4 | Cost: 3.230299e-01Iteration     5 | Cost: 3.213211e-01
+Lmabda: 0.001000 Iteraciones: 55 Porcentaje de aciertos: 96.140000
+Iteration     1 | Cost: 3.203244e-01Iteration     2 | Cost: 3.164695e-01Iteration     3 | Cost: 3.136278e-01Iteration     4 | Cost: 3.067548e-01Iteration     5 | Cost: 2.929389e-01
+Lmabda: 0.001000 Iteraciones: 60 Porcentaje de aciertos: 96.540000
+Iteration     1 | Cost: 2.840663e-01Iteration     2 | Cost: 2.787837e-01Iteration     3 | Cost: 2.769623e-01Iteration     4 | Cost: 2.743307e-01Iteration     5 | Cost: 2.729316e-01
+Lmabda: 0.001000 Iteraciones: 65 Porcentaje de aciertos: 96.860000
+Iteration     1 | Cost: 2.720156e-01Iteration     2 | Cost: 2.706484e-01Iteration     3 | Cost: 2.687531e-01Iteration     4 | Cost: 2.614629e-01Iteration     5 | Cost: 2.447700e-01
+Lmabda: 0.001000 Iteraciones: 70 Porcentaje de aciertos: 97.420000
+Iteration     1 | Cost: 2.388706e-01Iteration     2 | Cost: 2.366634e-01Iteration     3 | Cost: 2.356082e-01Iteration     4 | Cost: 2.320498e-01Iteration     5 | Cost: 2.301564e-01
+Lmabda: 0.001000 Iteraciones: 75 Porcentaje de aciertos: 97.580000
+Iteration     1 | Cost: 2.288455e-01Iteration     2 | Cost: 2.270679e-01Iteration     3 | Cost: 2.262094e-01Iteration     4 | Cost: 2.242157e-01Iteration     5 | Cost: 2.198057e-01
+Lmabda: 0.001000 Iteraciones: 80 Porcentaje de aciertos: 97.800000
+Iteration     1 | Cost: 2.171377e-01Iteration     2 | Cost: 2.144886e-01Iteration     3 | Cost: 2.132306e-01Iteration     4 | Cost: 2.118320e-01Iteration     5 | Cost: 2.107591e-01
+Lmabda: 0.001000 Iteraciones: 85 Porcentaje de aciertos: 97.840000
+Iteration     1 | Cost: 2.096853e-01Iteration     2 | Cost: 2.084530e-01Iteration     3 | Cost: 2.069510e-01Iteration     4 | Cost: 2.056166e-01Iteration     5 | Cost: 2.017000e-01
+Lmabda: 0.001000 Iteraciones: 90 Porcentaje de aciertos: 98.000000
+Iteration     1 | Cost: 2.007592e-01Iteration     2 | Cost: 1.996177e-01Iteration     3 | Cost: 1.985603e-01Iteration     4 | Cost: 1.966340e-01Iteration     5 | Cost: 1.916481e-01
+Lmabda: 0.001000 Iteraciones: 95 Porcentaje de aciertos: 98.000000
+Iteration     1 | Cost: 1.871902e-01Iteration     2 | Cost: 1.839803e-01Iteration     3 | Cost: 1.822533e-01Iteration     4 | Cost: 1.814602e-01Iteration     5 | Cost: 1.807601e-01
+Lmabda: 0.001000 Iteraciones: 100 Porcentaje de aciertos: 98.220000
+Iteration     1 | Cost: 3.294682e+00Iteration     2 | Cost: 3.234145e+00Iteration     3 | Cost: 3.201469e+00Iteration     4 | Cost: 2.622613e+00Iteration     5 | Cost: 2.259421e+00
+Lmabda: 0.001833 Iteraciones: 5 Porcentaje de aciertos: 57.180000
+Iteration     1 | Cost: 2.045190e+00Iteration     2 | Cost: 1.781022e+00Iteration     3 | Cost: 1.602233e+00Iteration     4 | Cost: 1.490827e+00Iteration     5 | Cost: 1.354486e+00
+Lmabda: 0.001833 Iteraciones: 10 Porcentaje de aciertos: 81.040000
+Iteration     1 | Cost: 1.305302e+00Iteration     2 | Cost: 1.184014e+00Iteration     3 | Cost: 1.128897e+00Iteration     4 | Cost: 1.009362e+00Iteration     5 | Cost: 8.735247e-01
+Lmabda: 0.001833 Iteraciones: 15 Porcentaje de aciertos: 88.380000
+Iteration     1 | Cost: 8.364804e-01Iteration     2 | Cost: 7.859574e-01Iteration     3 | Cost: 7.665048e-01Iteration     4 | Cost: 7.450391e-01Iteration     5 | Cost: 7.170784e-01
+Lmabda: 0.001833 Iteraciones: 20 Porcentaje de aciertos: 90.600000
+Iteration     1 | Cost: 7.076596e-01Iteration     2 | Cost: 6.969669e-01Iteration     3 | Cost: 6.720415e-01Iteration     4 | Cost: 6.158167e-01Iteration     5 | Cost: 5.871373e-01
+Lmabda: 0.001833 Iteraciones: 25 Porcentaje de aciertos: 92.220000
+Iteration     1 | Cost: 5.691697e-01Iteration     2 | Cost: 5.429460e-01Iteration     3 | Cost: 5.392064e-01Iteration     4 | Cost: 5.309796e-01Iteration     5 | Cost: 5.198806e-01
+Lmabda: 0.001833 Iteraciones: 30 Porcentaje de aciertos: 93.220000
+Iteration     1 | Cost: 5.158508e-01Iteration     2 | Cost: 5.120586e-01Iteration     3 | Cost: 5.028548e-01Iteration     4 | Cost: 4.771002e-01Iteration     5 | Cost: 4.615509e-01
+Lmabda: 0.001833 Iteraciones: 35 Porcentaje de aciertos: 93.920000
+Iteration     1 | Cost: 4.491938e-01Iteration     2 | Cost: 4.323892e-01Iteration     3 | Cost: 4.288594e-01Iteration     4 | Cost: 4.242265e-01Iteration     5 | Cost: 4.203994e-01
+Lmabda: 0.001833 Iteraciones: 40 Porcentaje de aciertos: 94.580000
+Iteration     1 | Cost: 4.188728e-01Iteration     2 | Cost: 4.145842e-01Iteration     3 | Cost: 4.011010e-01Iteration     4 | Cost: 3.850959e-01Iteration     5 | Cost: 3.502562e-01
+Lmabda: 0.001833 Iteraciones: 45 Porcentaje de aciertos: 95.520000
+Iteration     1 | Cost: 3.411916e-01Iteration     2 | Cost: 3.374108e-01Iteration     3 | Cost: 3.343583e-01Iteration     4 | Cost: 3.310750e-01Iteration     5 | Cost: 3.285025e-01
+Lmabda: 0.001833 Iteraciones: 50 Porcentaje de aciertos: 95.860000
+Iteration     1 | Cost: 3.262415e-01Iteration     2 | Cost: 3.247995e-01Iteration     3 | Cost: 3.212033e-01Iteration     4 | Cost: 3.066478e-01Iteration     5 | Cost: 2.972182e-01
+Lmabda: 0.001833 Iteraciones: 55 Porcentaje de aciertos: 96.560000
+Iteration     1 | Cost: 2.915031e-01Iteration     2 | Cost: 2.879726e-01Iteration     3 | Cost: 2.853602e-01Iteration     4 | Cost: 2.844089e-01Iteration     5 | Cost: 2.819714e-01
+Lmabda: 0.001833 Iteraciones: 60 Porcentaje de aciertos: 96.760000
+Iteration     1 | Cost: 2.804765e-01Iteration     2 | Cost: 2.787215e-01Iteration     3 | Cost: 2.765393e-01Iteration     4 | Cost: 2.755881e-01Iteration     5 | Cost: 2.747467e-01
+Lmabda: 0.001833 Iteraciones: 65 Porcentaje de aciertos: 97.020000
+Iteration     1 | Cost: 2.712266e-01Iteration     2 | Cost: 2.702112e-01Iteration     3 | Cost: 2.688990e-01Iteration     4 | Cost: 2.644394e-01Iteration     5 | Cost: 2.580965e-01
+Lmabda: 0.001833 Iteraciones: 70 Porcentaje de aciertos: 97.240000
+Iteration     1 | Cost: 2.544820e-01Iteration     2 | Cost: 2.534370e-01Iteration     3 | Cost: 2.520858e-01Iteration     4 | Cost: 2.490082e-01Iteration     5 | Cost: 2.446991e-01
+Lmabda: 0.001833 Iteraciones: 75 Porcentaje de aciertos: 97.360000
+Iteration     1 | Cost: 2.419341e-01Iteration     2 | Cost: 2.407850e-01Iteration     3 | Cost: 2.403185e-01Iteration     4 | Cost: 2.385247e-01Iteration     5 | Cost: 2.377290e-01
+Lmabda: 0.001833 Iteraciones: 80 Porcentaje de aciertos: 97.440000
+Iteration     1 | Cost: 2.369442e-01Iteration     2 | Cost: 2.361387e-01Iteration     3 | Cost: 2.266957e-01Iteration     4 | Cost: 1.991939e-01Iteration     5 | Cost: 1.713845e-01
+Lmabda: 0.001833 Iteraciones: 85 Porcentaje de aciertos: 98.520000
+Iteration     1 | Cost: 1.675286e-01Iteration     2 | Cost: 1.659824e-01Iteration     3 | Cost: 1.644807e-01Iteration     4 | Cost: 1.627511e-01Iteration     5 | Cost: 1.617858e-01
+Lmabda: 0.001833 Iteraciones: 90 Porcentaje de aciertos: 98.520000
+Iteration     1 | Cost: 1.612111e-01Iteration     2 | Cost: 1.605854e-01Iteration     3 | Cost: 1.595353e-01Iteration     4 | Cost: 1.579937e-01Iteration     5 | Cost: 1.569151e-01
+Lmabda: 0.001833 Iteraciones: 95 Porcentaje de aciertos: 98.560000
+Iteration     1 | Cost: 1.564820e-01Iteration     2 | Cost: 1.552734e-01Iteration     3 | Cost: 1.545991e-01Iteration     4 | Cost: 1.543614e-01Iteration     5 | Cost: 1.533731e-01
+Lmabda: 0.001833 Iteraciones: 100 Porcentaje de aciertos: 98.580000
+Iteration     1 | Cost: 3.294690e+00Iteration     2 | Cost: 3.234153e+00Iteration     3 | Cost: 3.201477e+00Iteration     4 | Cost: 2.622632e+00Iteration     5 | Cost: 2.259452e+00
+Lmabda: 0.003360 Iteraciones: 5 Porcentaje de aciertos: 57.180000
+Iteration     1 | Cost: 2.045234e+00Iteration     2 | Cost: 1.781059e+00Iteration     3 | Cost: 1.602314e+00Iteration     4 | Cost: 1.490951e+00Iteration     5 | Cost: 1.354623e+00
+Lmabda: 0.003360 Iteraciones: 10 Porcentaje de aciertos: 81.020000
+Iteration     1 | Cost: 1.305450e+00Iteration     2 | Cost: 1.184160e+00Iteration     3 | Cost: 1.129064e+00Iteration     4 | Cost: 1.009656e+00Iteration     5 | Cost: 8.738480e-01
+Lmabda: 0.003360 Iteraciones: 15 Porcentaje de aciertos: 88.400000
+Iteration     1 | Cost: 8.368534e-01Iteration     2 | Cost: 7.863376e-01Iteration     3 | Cost: 7.669620e-01Iteration     4 | Cost: 7.452997e-01Iteration     5 | Cost: 7.174942e-01
+Lmabda: 0.003360 Iteraciones: 20 Porcentaje de aciertos: 90.560000
+Iteration     1 | Cost: 7.084024e-01Iteration     2 | Cost: 6.983420e-01Iteration     3 | Cost: 6.713087e-01Iteration     4 | Cost: 6.049740e-01Iteration     5 | Cost: 5.721419e-01
+Lmabda: 0.003360 Iteraciones: 25 Porcentaje de aciertos: 92.420000
+Iteration     1 | Cost: 5.512377e-01Iteration     2 | Cost: 5.190931e-01Iteration     3 | Cost: 5.144955e-01Iteration     4 | Cost: 5.025139e-01Iteration     5 | Cost: 4.941839e-01
+Lmabda: 0.003360 Iteraciones: 30 Porcentaje de aciertos: 93.400000
+Iteration     1 | Cost: 4.885643e-01Iteration     2 | Cost: 4.827906e-01Iteration     3 | Cost: 4.759694e-01Iteration     4 | Cost: 4.696831e-01Iteration     5 | Cost: 4.575327e-01
+Lmabda: 0.003360 Iteraciones: 35 Porcentaje de aciertos: 94.220000
+Iteration     1 | Cost: 4.477824e-01Iteration     2 | Cost: 4.436467e-01Iteration     3 | Cost: 4.392172e-01Iteration     4 | Cost: 4.303160e-01Iteration     5 | Cost: 4.171114e-01
+Lmabda: 0.003360 Iteraciones: 40 Porcentaje de aciertos: 94.640000
+Iteration     1 | Cost: 4.117515e-01Iteration     2 | Cost: 4.063385e-01Iteration     3 | Cost: 4.025308e-01Iteration     4 | Cost: 3.988093e-01Iteration     5 | Cost: 3.964880e-01
+Lmabda: 0.003360 Iteraciones: 45 Porcentaje de aciertos: 94.800000
+Iteration     1 | Cost: 3.931044e-01Iteration     2 | Cost: 3.860397e-01Iteration     3 | Cost: 3.841500e-01Iteration     4 | Cost: 3.633416e-01Iteration     5 | Cost: 3.264706e-01
+Lmabda: 0.003360 Iteraciones: 50 Porcentaje de aciertos: 96.220000
+Iteration     1 | Cost: 3.112192e-01Iteration     2 | Cost: 3.066506e-01Iteration     3 | Cost: 3.008247e-01Iteration     4 | Cost: 2.999164e-01Iteration     5 | Cost: 2.979674e-01
+Lmabda: 0.003360 Iteraciones: 55 Porcentaje de aciertos: 96.560000
+Iteration     1 | Cost: 2.967788e-01Iteration     2 | Cost: 2.953994e-01Iteration     3 | Cost: 2.910756e-01Iteration     4 | Cost: 2.805938e-01Iteration     5 | Cost: 2.656571e-01
+Lmabda: 0.003360 Iteraciones: 60 Porcentaje de aciertos: 96.980000
+Iteration     1 | Cost: 2.560996e-01Iteration     2 | Cost: 2.516282e-01Iteration     3 | Cost: 2.487048e-01Iteration     4 | Cost: 2.467015e-01Iteration     5 | Cost: 2.456682e-01
+Lmabda: 0.003360 Iteraciones: 65 Porcentaje de aciertos: 97.400000
+Iteration     1 | Cost: 2.433798e-01Iteration     2 | Cost: 2.422438e-01Iteration     3 | Cost: 2.406070e-01Iteration     4 | Cost: 2.397194e-01Iteration     5 | Cost: 2.384464e-01
+Lmabda: 0.003360 Iteraciones: 70 Porcentaje de aciertos: 97.480000
+Iteration     1 | Cost: 2.367248e-01Iteration     2 | Cost: 2.359327e-01Iteration     3 | Cost: 2.348320e-01Iteration     4 | Cost: 2.320356e-01Iteration     5 | Cost: 2.287012e-01
+Lmabda: 0.003360 Iteraciones: 75 Porcentaje de aciertos: 97.580000
+Iteration     1 | Cost: 2.272542e-01Iteration     2 | Cost: 2.266316e-01Iteration     3 | Cost: 2.257756e-01Iteration     4 | Cost: 2.240066e-01Iteration     5 | Cost: 2.217483e-01
+Lmabda: 0.003360 Iteraciones: 80 Porcentaje de aciertos: 97.580000
+Iteration     1 | Cost: 2.198148e-01Iteration     2 | Cost: 2.191678e-01Iteration     3 | Cost: 2.183637e-01Iteration     4 | Cost: 2.127179e-01Iteration     5 | Cost: 1.973643e-01
+Lmabda: 0.003360 Iteraciones: 85 Porcentaje de aciertos: 98.020000
+Iteration     1 | Cost: 1.825279e-01Iteration     2 | Cost: 1.786943e-01Iteration     3 | Cost: 1.776410e-01Iteration     4 | Cost: 1.761560e-01Iteration     5 | Cost: 1.755669e-01
+Lmabda: 0.003360 Iteraciones: 90 Porcentaje de aciertos: 98.320000
+Iteration     1 | Cost: 1.752699e-01Iteration     2 | Cost: 1.720290e-01Iteration     3 | Cost: 1.655492e-01Iteration     4 | Cost: 1.564109e-01Iteration     5 | Cost: 1.493377e-01
+Lmabda: 0.003360 Iteraciones: 95 Porcentaje de aciertos: 98.780000
+Iteration     1 | Cost: 1.458061e-01Iteration     2 | Cost: 1.415103e-01Iteration     3 | Cost: 1.400871e-01Iteration     4 | Cost: 1.380071e-01Iteration     5 | Cost: 1.377911e-01
+Lmabda: 0.003360 Iteraciones: 100 Porcentaje de aciertos: 98.860000
+Iteration     1 | Cost: 3.294705e+00Iteration     2 | Cost: 3.234168e+00Iteration     3 | Cost: 3.201493e+00Iteration     4 | Cost: 2.622666e+00Iteration     5 | Cost: 2.259510e+00
+Lmabda: 0.006158 Iteraciones: 5 Porcentaje de aciertos: 57.180000
+Iteration     1 | Cost: 2.045314e+00Iteration     2 | Cost: 1.781127e+00Iteration     3 | Cost: 1.602462e+00Iteration     4 | Cost: 1.491177e+00Iteration     5 | Cost: 1.354873e+00
+Lmabda: 0.006158 Iteraciones: 10 Porcentaje de aciertos: 81.020000
+Iteration     1 | Cost: 1.305722e+00Iteration     2 | Cost: 1.184428e+00Iteration     3 | Cost: 1.129369e+00Iteration     4 | Cost: 1.010209e+00Iteration     5 | Cost: 8.744499e-01
+Lmabda: 0.006158 Iteraciones: 15 Porcentaje de aciertos: 88.380000
+Iteration     1 | Cost: 8.375414e-01Iteration     2 | Cost: 7.870423e-01Iteration     3 | Cost: 7.678028e-01Iteration     4 | Cost: 7.457769e-01Iteration     5 | Cost: 7.182875e-01
+Lmabda: 0.006158 Iteraciones: 20 Porcentaje de aciertos: 90.540000
+Iteration     1 | Cost: 7.097871e-01Iteration     2 | Cost: 7.005561e-01Iteration     3 | Cost: 6.717180e-01Iteration     4 | Cost: 6.191707e-01Iteration     5 | Cost: 5.895105e-01
+Lmabda: 0.006158 Iteraciones: 25 Porcentaje de aciertos: 92.320000
+Iteration     1 | Cost: 5.552096e-01Iteration     2 | Cost: 5.325474e-01Iteration     3 | Cost: 5.148430e-01Iteration     4 | Cost: 5.104317e-01Iteration     5 | Cost: 5.014892e-01
+Lmabda: 0.006158 Iteraciones: 30 Porcentaje de aciertos: 93.200000
+Iteration     1 | Cost: 4.968884e-01Iteration     2 | Cost: 4.917925e-01Iteration     3 | Cost: 4.776881e-01Iteration     4 | Cost: 4.594116e-01Iteration     5 | Cost: 4.481451e-01
+Lmabda: 0.006158 Iteraciones: 35 Porcentaje de aciertos: 94.240000
+Iteration     1 | Cost: 4.419774e-01Iteration     2 | Cost: 4.373376e-01Iteration     3 | Cost: 4.325260e-01Iteration     4 | Cost: 4.273044e-01Iteration     5 | Cost: 4.223469e-01
+Lmabda: 0.006158 Iteraciones: 40 Porcentaje de aciertos: 94.540000
+Iteration     1 | Cost: 4.199436e-01Iteration     2 | Cost: 4.164151e-01Iteration     3 | Cost: 4.136792e-01Iteration     4 | Cost: 4.052036e-01Iteration     5 | Cost: 3.945494e-01
+Lmabda: 0.006158 Iteraciones: 45 Porcentaje de aciertos: 95.040000
+Iteration     1 | Cost: 3.896075e-01Iteration     2 | Cost: 3.835713e-01Iteration     3 | Cost: 3.823009e-01Iteration     4 | Cost: 3.777057e-01Iteration     5 | Cost: 3.672904e-01
+Lmabda: 0.006158 Iteraciones: 50 Porcentaje de aciertos: 95.380000
+Iteration     1 | Cost: 3.620655e-01Iteration     2 | Cost: 3.592930e-01Iteration     3 | Cost: 3.565000e-01Iteration     4 | Cost: 3.531698e-01Iteration     5 | Cost: 3.480121e-01
+Lmabda: 0.006158 Iteraciones: 55 Porcentaje de aciertos: 95.600000
+Iteration     1 | Cost: 3.450181e-01Iteration     2 | Cost: 3.416169e-01Iteration     3 | Cost: 3.400444e-01Iteration     4 | Cost: 3.338595e-01Iteration     5 | Cost: 3.272468e-01
+Lmabda: 0.006158 Iteraciones: 60 Porcentaje de aciertos: 95.920000
+Iteration     1 | Cost: 3.255064e-01Iteration     2 | Cost: 3.235899e-01Iteration     3 | Cost: 3.215427e-01Iteration     4 | Cost: 3.145262e-01Iteration     5 | Cost: 3.073403e-01
+Lmabda: 0.006158 Iteraciones: 65 Porcentaje de aciertos: 96.480000
+Iteration     1 | Cost: 3.053892e-01Iteration     2 | Cost: 3.032029e-01Iteration     3 | Cost: 3.007258e-01Iteration     4 | Cost: 2.979043e-01Iteration     5 | Cost: 2.952247e-01
+Lmabda: 0.006158 Iteraciones: 70 Porcentaje de aciertos: 96.580000
+Iteration     1 | Cost: 2.942564e-01Iteration     2 | Cost: 2.918643e-01Iteration     3 | Cost: 2.883119e-01Iteration     4 | Cost: 2.848818e-01Iteration     5 | Cost: 2.829874e-01
+Lmabda: 0.006158 Iteraciones: 75 Porcentaje de aciertos: 96.900000
+Iteration     1 | Cost: 2.814584e-01Iteration     2 | Cost: 2.800681e-01Iteration     3 | Cost: 2.779114e-01Iteration     4 | Cost: 2.732954e-01Iteration     5 | Cost: 2.697635e-01
+Lmabda: 0.006158 Iteraciones: 80 Porcentaje de aciertos: 97.040000
+Iteration     1 | Cost: 2.647758e-01Iteration     2 | Cost: 2.633251e-01Iteration     3 | Cost: 2.621178e-01Iteration     4 | Cost: 2.580049e-01Iteration     5 | Cost: 2.496987e-01
+Lmabda: 0.006158 Iteraciones: 85 Porcentaje de aciertos: 97.300000
+Iteration     1 | Cost: 2.469501e-01Iteration     2 | Cost: 2.434690e-01Iteration     3 | Cost: 2.420627e-01Iteration     4 | Cost: 2.401767e-01Iteration     5 | Cost: 2.394928e-01
+Lmabda: 0.006158 Iteraciones: 90 Porcentaje de aciertos: 97.540000
+Iteration     1 | Cost: 2.390890e-01Iteration     2 | Cost: 2.364372e-01Iteration     3 | Cost: 2.275707e-01Iteration     4 | Cost: 2.193119e-01Iteration     5 | Cost: 2.090824e-01
+Lmabda: 0.006158 Iteraciones: 95 Porcentaje de aciertos: 97.900000
+Iteration     1 | Cost: 2.060256e-01Iteration     2 | Cost: 2.035075e-01Iteration     3 | Cost: 2.021400e-01Iteration     4 | Cost: 2.006417e-01Iteration     5 | Cost: 1.999848e-01
+Lmabda: 0.006158 Iteraciones: 100 Porcentaje de aciertos: 98.140000
+Iteration     1 | Cost: 3.294733e+00Iteration     2 | Cost: 3.234196e+00Iteration     3 | Cost: 3.201522e+00Iteration     4 | Cost: 2.622729e+00Iteration     5 | Cost: 2.259616e+00
+Lmabda: 0.011288 Iteraciones: 5 Porcentaje de aciertos: 57.160000
+Iteration     1 | Cost: 2.045461e+00Iteration     2 | Cost: 1.781251e+00Iteration     3 | Cost: 1.602733e+00Iteration     4 | Cost: 1.491592e+00Iteration     5 | Cost: 1.355333e+00
+Lmabda: 0.011288 Iteraciones: 10 Porcentaje de aciertos: 81.020000
+Iteration     1 | Cost: 1.306220e+00Iteration     2 | Cost: 1.184919e+00Iteration     3 | Cost: 1.129930e+00Iteration     4 | Cost: 1.011269e+00Iteration     5 | Cost: 8.755836e-01
+Lmabda: 0.011288 Iteraciones: 15 Porcentaje de aciertos: 88.400000
+Iteration     1 | Cost: 8.388173e-01Iteration     2 | Cost: 7.883612e-01Iteration     3 | Cost: 7.693502e-01Iteration     4 | Cost: 7.466452e-01Iteration     5 | Cost: 7.198343e-01
+Lmabda: 0.011288 Iteraciones: 20 Porcentaje de aciertos: 90.560000
+Iteration     1 | Cost: 7.123962e-01Iteration     2 | Cost: 7.034379e-01Iteration     3 | Cost: 6.767870e-01Iteration     4 | Cost: 6.232198e-01Iteration     5 | Cost: 5.883717e-01
+Lmabda: 0.011288 Iteraciones: 25 Porcentaje de aciertos: 92.300000
+Iteration     1 | Cost: 5.504707e-01Iteration     2 | Cost: 5.308009e-01Iteration     3 | Cost: 5.130991e-01Iteration     4 | Cost: 5.075526e-01Iteration     5 | Cost: 5.001530e-01
+Lmabda: 0.011288 Iteraciones: 30 Porcentaje de aciertos: 93.260000
+Iteration     1 | Cost: 4.966429e-01Iteration     2 | Cost: 4.916585e-01Iteration     3 | Cost: 4.870785e-01Iteration     4 | Cost: 4.783618e-01Iteration     5 | Cost: 4.580579e-01
+Lmabda: 0.011288 Iteraciones: 35 Porcentaje de aciertos: 94.060000
+Iteration     1 | Cost: 4.388508e-01Iteration     2 | Cost: 4.310393e-01Iteration     3 | Cost: 4.244362e-01Iteration     4 | Cost: 4.206145e-01Iteration     5 | Cost: 4.170126e-01
+Lmabda: 0.011288 Iteraciones: 40 Porcentaje de aciertos: 94.560000
+Iteration     1 | Cost: 4.143534e-01Iteration     2 | Cost: 4.117582e-01Iteration     3 | Cost: 4.040939e-01Iteration     4 | Cost: 3.995211e-01Iteration     5 | Cost: 3.928414e-01
+Lmabda: 0.011288 Iteraciones: 45 Porcentaje de aciertos: 95.000000
+Iteration     1 | Cost: 3.737362e-01Iteration     2 | Cost: 3.667693e-01Iteration     3 | Cost: 3.628037e-01Iteration     4 | Cost: 3.591022e-01Iteration     5 | Cost: 3.572091e-01
+Lmabda: 0.011288 Iteraciones: 50 Porcentaje de aciertos: 95.440000
+Iteration     1 | Cost: 3.556733e-01Iteration     2 | Cost: 3.524412e-01Iteration     3 | Cost: 3.491549e-01Iteration     4 | Cost: 3.449405e-01Iteration     5 | Cost: 3.377072e-01
+Lmabda: 0.011288 Iteraciones: 55 Porcentaje de aciertos: 95.880000
+Iteration     1 | Cost: 3.336767e-01Iteration     2 | Cost: 3.317841e-01Iteration     3 | Cost: 3.296434e-01Iteration     4 | Cost: 3.233005e-01Iteration     5 | Cost: 3.183197e-01
+Lmabda: 0.011288 Iteraciones: 60 Porcentaje de aciertos: 96.080000
+Iteration     1 | Cost: 3.136672e-01Iteration     2 | Cost: 3.093778e-01Iteration     3 | Cost: 3.069068e-01Iteration     4 | Cost: 3.044780e-01Iteration     5 | Cost: 3.017845e-01
+Lmabda: 0.011288 Iteraciones: 65 Porcentaje de aciertos: 96.460000
+Iteration     1 | Cost: 2.996762e-01Iteration     2 | Cost: 2.977697e-01Iteration     3 | Cost: 2.953099e-01Iteration     4 | Cost: 2.922242e-01Iteration     5 | Cost: 2.903105e-01
+Lmabda: 0.011288 Iteraciones: 70 Porcentaje de aciertos: 96.640000
+Iteration     1 | Cost: 2.888990e-01Iteration     2 | Cost: 2.874241e-01Iteration     3 | Cost: 2.838543e-01Iteration     4 | Cost: 2.734363e-01Iteration     5 | Cost: 2.605546e-01
+Lmabda: 0.011288 Iteraciones: 75 Porcentaje de aciertos: 97.260000
+Iteration     1 | Cost: 2.519677e-01Iteration     2 | Cost: 2.447612e-01Iteration     3 | Cost: 2.431892e-01Iteration     4 | Cost: 2.423526e-01Iteration     5 | Cost: 2.418486e-01
+Lmabda: 0.011288 Iteraciones: 80 Porcentaje de aciertos: 97.480000
+Iteration     1 | Cost: 2.402012e-01Iteration     2 | Cost: 2.393321e-01Iteration     3 | Cost: 2.381113e-01Iteration     4 | Cost: 2.327981e-01Iteration     5 | Cost: 2.255346e-01
+Lmabda: 0.011288 Iteraciones: 85 Porcentaje de aciertos: 97.540000
+Iteration     1 | Cost: 2.190229e-01Iteration     2 | Cost: 2.172340e-01Iteration     3 | Cost: 2.166669e-01Iteration     4 | Cost: 2.141934e-01Iteration     5 | Cost: 2.120884e-01
+Lmabda: 0.011288 Iteraciones: 90 Porcentaje de aciertos: 97.920000
+Iteration     1 | Cost: 2.114741e-01Iteration     2 | Cost: 2.107734e-01Iteration     3 | Cost: 2.092087e-01Iteration     4 | Cost: 2.052043e-01Iteration     5 | Cost: 2.010376e-01
+Lmabda: 0.011288 Iteraciones: 95 Porcentaje de aciertos: 97.960000
+Iteration     1 | Cost: 1.981369e-01Iteration     2 | Cost: 1.943901e-01Iteration     3 | Cost: 1.934488e-01Iteration     4 | Cost: 1.921014e-01Iteration     5 | Cost: 1.915716e-01
+Lmabda: 0.011288 Iteraciones: 100 Porcentaje de aciertos: 98.200000
+Iteration     1 | Cost: 3.294784e+00Iteration     2 | Cost: 3.234246e+00Iteration     3 | Cost: 3.201575e+00Iteration     4 | Cost: 2.622845e+00Iteration     5 | Cost: 2.259811e+00
+Lmabda: 0.020691 Iteraciones: 5 Porcentaje de aciertos: 57.160000
+Iteration     1 | Cost: 2.045729e+00Iteration     2 | Cost: 1.781480e+00Iteration     3 | Cost: 1.603230e+00Iteration     4 | Cost: 1.492356e+00Iteration     5 | Cost: 1.356180e+00
+Lmabda: 0.020691 Iteraciones: 10 Porcentaje de aciertos: 80.980000
+Iteration     1 | Cost: 1.307136e+00Iteration     2 | Cost: 1.185821e+00Iteration     3 | Cost: 1.130961e+00Iteration     4 | Cost: 1.013352e+00Iteration     5 | Cost: 8.777616e-01
+Lmabda: 0.020691 Iteraciones: 15 Porcentaje de aciertos: 88.360000
+Iteration     1 | Cost: 8.412066e-01Iteration     2 | Cost: 7.908775e-01Iteration     3 | Cost: 7.721953e-01Iteration     4 | Cost: 7.482016e-01Iteration     5 | Cost: 7.229188e-01
+Lmabda: 0.020691 Iteraciones: 20 Porcentaje de aciertos: 90.600000
+Iteration     1 | Cost: 7.172446e-01Iteration     2 | Cost: 7.016728e-01Iteration     3 | Cost: 6.425633e-01Iteration     4 | Cost: 5.990127e-01Iteration     5 | Cost: 5.753064e-01
+Lmabda: 0.020691 Iteraciones: 25 Porcentaje de aciertos: 92.300000
+Iteration     1 | Cost: 5.274913e-01Iteration     2 | Cost: 5.163734e-01Iteration     3 | Cost: 5.101983e-01Iteration     4 | Cost: 5.040938e-01Iteration     5 | Cost: 4.900391e-01
+Lmabda: 0.020691 Iteraciones: 30 Porcentaje de aciertos: 93.520000
+Iteration     1 | Cost: 4.861410e-01Iteration     2 | Cost: 4.786623e-01Iteration     3 | Cost: 4.741828e-01Iteration     4 | Cost: 4.710128e-01Iteration     5 | Cost: 4.617869e-01
+Lmabda: 0.020691 Iteraciones: 35 Porcentaje de aciertos: 93.660000
+Iteration     1 | Cost: 4.562588e-01Iteration     2 | Cost: 4.486729e-01Iteration     3 | Cost: 4.458586e-01Iteration     4 | Cost: 4.398929e-01Iteration     5 | Cost: 4.313882e-01
+Lmabda: 0.020691 Iteraciones: 40 Porcentaje de aciertos: 94.360000
+Iteration     1 | Cost: 4.273487e-01Iteration     2 | Cost: 4.233989e-01Iteration     3 | Cost: 4.199164e-01Iteration     4 | Cost: 4.141659e-01Iteration     5 | Cost: 4.111393e-01
+Lmabda: 0.020691 Iteraciones: 45 Porcentaje de aciertos: 94.700000
+Iteration     1 | Cost: 4.052826e-01Iteration     2 | Cost: 3.992591e-01Iteration     3 | Cost: 3.951384e-01Iteration     4 | Cost: 3.903950e-01Iteration     5 | Cost: 3.892898e-01
+Lmabda: 0.020691 Iteraciones: 50 Porcentaje de aciertos: 95.040000
+Iteration     1 | Cost: 3.883580e-01Iteration     2 | Cost: 3.789088e-01Iteration     3 | Cost: 3.725593e-01Iteration     4 | Cost: 3.655253e-01Iteration     5 | Cost: 3.375016e-01
+Lmabda: 0.020691 Iteraciones: 55 Porcentaje de aciertos: 96.100000
+Iteration     1 | Cost: 3.263098e-01Iteration     2 | Cost: 3.157786e-01Iteration     3 | Cost: 3.115378e-01Iteration     4 | Cost: 3.113891e-01Iteration     5 | Cost: 3.071240e-01
+Lmabda: 0.020691 Iteraciones: 60 Porcentaje de aciertos: 96.420000
+Iteration     1 | Cost: 3.057458e-01Iteration     2 | Cost: 3.030595e-01Iteration     3 | Cost: 2.970246e-01Iteration     4 | Cost: 2.881718e-01Iteration     5 | Cost: 2.838569e-01
+Lmabda: 0.020691 Iteraciones: 65 Porcentaje de aciertos: 96.700000
+Iteration     1 | Cost: 2.813173e-01Iteration     2 | Cost: 2.794352e-01Iteration     3 | Cost: 2.778957e-01Iteration     4 | Cost: 2.757712e-01Iteration     5 | Cost: 2.726141e-01
+Lmabda: 0.020691 Iteraciones: 70 Porcentaje de aciertos: 96.980000
+Iteration     1 | Cost: 2.709726e-01Iteration     2 | Cost: 2.680737e-01Iteration     3 | Cost: 2.644270e-01Iteration     4 | Cost: 2.585361e-01Iteration     5 | Cost: 2.515892e-01
+Lmabda: 0.020691 Iteraciones: 75 Porcentaje de aciertos: 97.300000
+Iteration     1 | Cost: 2.452403e-01Iteration     2 | Cost: 2.432508e-01Iteration     3 | Cost: 2.413196e-01Iteration     4 | Cost: 2.387002e-01Iteration     5 | Cost: 2.378870e-01
+Lmabda: 0.020691 Iteraciones: 80 Porcentaje de aciertos: 97.600000
+Iteration     1 | Cost: 2.373748e-01Iteration     2 | Cost: 2.320648e-01Iteration     3 | Cost: 2.283835e-01Iteration     4 | Cost: 2.230805e-01Iteration     5 | Cost: 2.137282e-01
+Lmabda: 0.020691 Iteraciones: 85 Porcentaje de aciertos: 97.800000
+Iteration     1 | Cost: 2.093210e-01Iteration     2 | Cost: 2.042444e-01Iteration     3 | Cost: 2.022576e-01Iteration     4 | Cost: 2.011002e-01Iteration     5 | Cost: 2.002305e-01
+Lmabda: 0.020691 Iteraciones: 90 Porcentaje de aciertos: 98.080000
+Iteration     1 | Cost: 1.994739e-01Iteration     2 | Cost: 1.987724e-01Iteration     3 | Cost: 1.959991e-01Iteration     4 | Cost: 1.942588e-01Iteration     5 | Cost: 1.919222e-01
+Lmabda: 0.020691 Iteraciones: 95 Porcentaje de aciertos: 98.080000
+Iteration     1 | Cost: 1.875422e-01Iteration     2 | Cost: 1.865680e-01Iteration     3 | Cost: 1.854419e-01Iteration     4 | Cost: 1.842408e-01Iteration     5 | Cost: 1.834558e-01
+Lmabda: 0.020691 Iteraciones: 100 Porcentaje de aciertos: 98.200000
+Iteration     1 | Cost: 3.294877e+00Iteration     2 | Cost: 3.234339e+00Iteration     3 | Cost: 3.201673e+00Iteration     4 | Cost: 2.623056e+00Iteration     5 | Cost: 2.260168e+00
+Lmabda: 0.037927 Iteraciones: 5 Porcentaje de aciertos: 57.160000
+Iteration     1 | Cost: 2.046222e+00Iteration     2 | Cost: 1.781898e+00Iteration     3 | Cost: 1.604142e+00Iteration     4 | Cost: 1.493762e+00Iteration     5 | Cost: 1.357741e+00
+Lmabda: 0.037927 Iteraciones: 10 Porcentaje de aciertos: 81.040000
+Iteration     1 | Cost: 1.308821e+00Iteration     2 | Cost: 1.187483e+00Iteration     3 | Cost: 1.132855e+00Iteration     4 | Cost: 1.017562e+00Iteration     5 | Cost: 8.820946e-01
+Lmabda: 0.037927 Iteraciones: 15 Porcentaje de aciertos: 88.320000
+Iteration     1 | Cost: 8.457831e-01Iteration     2 | Cost: 7.958684e-01Iteration     3 | Cost: 7.774469e-01Iteration     4 | Cost: 7.514092e-01Iteration     5 | Cost: 7.286595e-01
+Lmabda: 0.037927 Iteraciones: 20 Porcentaje de aciertos: 90.500000
+Iteration     1 | Cost: 7.233988e-01Iteration     2 | Cost: 7.006371e-01Iteration     3 | Cost: 6.689441e-01Iteration     4 | Cost: 6.314280e-01Iteration     5 | Cost: 5.827533e-01
+Lmabda: 0.037927 Iteraciones: 25 Porcentaje de aciertos: 92.160000
+Iteration     1 | Cost: 5.707992e-01Iteration     2 | Cost: 5.636716e-01Iteration     3 | Cost: 5.538663e-01Iteration     4 | Cost: 5.497863e-01Iteration     5 | Cost: 5.446216e-01
+Lmabda: 0.037927 Iteraciones: 30 Porcentaje de aciertos: 92.720000
+Iteration     1 | Cost: 5.410169e-01Iteration     2 | Cost: 5.374351e-01Iteration     3 | Cost: 5.004066e-01Iteration     4 | Cost: 4.576830e-01Iteration     5 | Cost: 4.398944e-01
+Lmabda: 0.037927 Iteraciones: 35 Porcentaje de aciertos: 94.340000
+Iteration     1 | Cost: 4.363439e-01Iteration     2 | Cost: 4.333924e-01Iteration     3 | Cost: 4.300808e-01Iteration     4 | Cost: 4.222505e-01Iteration     5 | Cost: 4.116233e-01
+Lmabda: 0.037927 Iteraciones: 40 Porcentaje de aciertos: 94.640000
+Iteration     1 | Cost: 4.080127e-01Iteration     2 | Cost: 4.032796e-01Iteration     3 | Cost: 4.012415e-01Iteration     4 | Cost: 4.002996e-01Iteration     5 | Cost: 3.936428e-01
+Lmabda: 0.037927 Iteraciones: 45 Porcentaje de aciertos: 94.960000
+Iteration     1 | Cost: 3.918439e-01Iteration     2 | Cost: 3.892717e-01Iteration     3 | Cost: 3.870061e-01Iteration     4 | Cost: 3.805464e-01Iteration     5 | Cost: 3.568750e-01
+Lmabda: 0.037927 Iteraciones: 50 Porcentaje de aciertos: 95.520000
+Iteration     1 | Cost: 3.503449e-01Iteration     2 | Cost: 3.463310e-01Iteration     3 | Cost: 3.452486e-01Iteration     4 | Cost: 3.424073e-01Iteration     5 | Cost: 3.406407e-01
+Lmabda: 0.037927 Iteraciones: 55 Porcentaje de aciertos: 95.860000
+Iteration     1 | Cost: 3.398230e-01Iteration     2 | Cost: 3.377246e-01Iteration     3 | Cost: 3.310077e-01Iteration     4 | Cost: 2.788809e-01Iteration     5 | Cost: 2.501606e-01
+Lmabda: 0.037927 Iteraciones: 60 Porcentaje de aciertos: 97.520000
+Iteration     1 | Cost: 2.376179e-01Iteration     2 | Cost: 2.282630e-01Iteration     3 | Cost: 2.223142e-01Iteration     4 | Cost: 2.209981e-01Iteration     5 | Cost: 2.176439e-01
+Lmabda: 0.037927 Iteraciones: 65 Porcentaje de aciertos: 97.900000
+Iteration     1 | Cost: 2.161187e-01Iteration     2 | Cost: 2.140399e-01Iteration     3 | Cost: 2.125953e-01Iteration     4 | Cost: 2.104248e-01Iteration     5 | Cost: 2.086157e-01
+Lmabda: 0.037927 Iteraciones: 70 Porcentaje de aciertos: 98.020000
+Iteration     1 | Cost: 2.082360e-01Iteration     2 | Cost: 2.055425e-01Iteration     3 | Cost: 1.984006e-01Iteration     4 | Cost: 1.906912e-01Iteration     5 | Cost: 1.839542e-01
+Lmabda: 0.037927 Iteraciones: 75 Porcentaje de aciertos: 98.140000
+Iteration     1 | Cost: 1.804592e-01Iteration     2 | Cost: 1.783373e-01Iteration     3 | Cost: 1.763498e-01Iteration     4 | Cost: 1.750259e-01Iteration     5 | Cost: 1.738356e-01
+Lmabda: 0.037927 Iteraciones: 80 Porcentaje de aciertos: 98.480000
+Iteration     1 | Cost: 1.720077e-01Iteration     2 | Cost: 1.702600e-01Iteration     3 | Cost: 1.692137e-01Iteration     4 | Cost: 1.684404e-01Iteration     5 | Cost: 1.679080e-01
+Lmabda: 0.037927 Iteraciones: 85 Porcentaje de aciertos: 98.480000
+Iteration     1 | Cost: 1.675438e-01Iteration     2 | Cost: 1.661258e-01Iteration     3 | Cost: 1.649356e-01Iteration     4 | Cost: 1.604177e-01Iteration     5 | Cost: 1.560990e-01
+Lmabda: 0.037927 Iteraciones: 90 Porcentaje de aciertos: 98.740000
+Iteration     1 | Cost: 1.552074e-01Iteration     2 | Cost: 1.546380e-01Iteration     3 | Cost: 1.541162e-01Iteration     4 | Cost: 1.520931e-01Iteration     5 | Cost: 1.513716e-01
+Lmabda: 0.037927 Iteraciones: 95 Porcentaje de aciertos: 98.840000
+Iteration     1 | Cost: 1.509704e-01Iteration     2 | Cost: 1.501613e-01Iteration     3 | Cost: 1.492399e-01Iteration     4 | Cost: 1.466034e-01Iteration     5 | Cost: 1.409177e-01
+Lmabda: 0.037927 Iteraciones: 100 Porcentaje de aciertos: 99.000000
+Iteration     1 | Cost: 3.295049e+00Iteration     2 | Cost: 3.234510e+00Iteration     3 | Cost: 3.201852e+00Iteration     4 | Cost: 2.623443e+00Iteration     5 | Cost: 2.260821e+00
+Lmabda: 0.069519 Iteraciones: 5 Porcentaje de aciertos: 57.140000
+Iteration     1 | Cost: 2.047124e+00Iteration     2 | Cost: 1.782666e+00Iteration     3 | Cost: 1.605818e+00Iteration     4 | Cost: 1.496360e+00Iteration     5 | Cost: 1.360637e+00
+Lmabda: 0.069519 Iteraciones: 10 Porcentaje de aciertos: 81.100000
+Iteration     1 | Cost: 1.311928e+00Iteration     2 | Cost: 1.190563e+00Iteration     3 | Cost: 1.136332e+00Iteration     4 | Cost: 1.026109e+00Iteration     5 | Cost: 8.912527e-01
+Lmabda: 0.069519 Iteraciones: 15 Porcentaje de aciertos: 88.100000
+Iteration     1 | Cost: 8.550441e-01Iteration     2 | Cost: 8.064890e-01Iteration     3 | Cost: 7.876600e-01Iteration     4 | Cost: 7.646366e-01Iteration     5 | Cost: 7.377019e-01
+Lmabda: 0.069519 Iteraciones: 20 Porcentaje de aciertos: 90.380000
+Iteration     1 | Cost: 7.310496e-01Iteration     2 | Cost: 7.152157e-01Iteration     3 | Cost: 6.632128e-01Iteration     4 | Cost: 6.064128e-01Iteration     5 | Cost: 5.770924e-01
+Lmabda: 0.069519 Iteraciones: 25 Porcentaje de aciertos: 92.020000
+Iteration     1 | Cost: 5.519077e-01Iteration     2 | Cost: 5.389374e-01Iteration     3 | Cost: 5.306725e-01Iteration     4 | Cost: 5.217507e-01Iteration     5 | Cost: 5.177384e-01
+Lmabda: 0.069519 Iteraciones: 30 Porcentaje de aciertos: 92.900000
+Iteration     1 | Cost: 5.113032e-01Iteration     2 | Cost: 5.070911e-01Iteration     3 | Cost: 5.017152e-01Iteration     4 | Cost: 4.869490e-01Iteration     5 | Cost: 4.688923e-01
+Lmabda: 0.069519 Iteraciones: 35 Porcentaje de aciertos: 93.740000
+Iteration     1 | Cost: 4.631933e-01Iteration     2 | Cost: 4.596123e-01Iteration     3 | Cost: 4.548633e-01Iteration     4 | Cost: 4.509451e-01Iteration     5 | Cost: 4.462705e-01
+Lmabda: 0.069519 Iteraciones: 40 Porcentaje de aciertos: 94.120000
+Iteration     1 | Cost: 4.425335e-01Iteration     2 | Cost: 4.407675e-01Iteration     3 | Cost: 4.229335e-01Iteration     4 | Cost: 3.896451e-01Iteration     5 | Cost: 3.556560e-01
+Lmabda: 0.069519 Iteraciones: 45 Porcentaje de aciertos: 95.680000
+Iteration     1 | Cost: 3.395707e-01Iteration     2 | Cost: 3.242618e-01Iteration     3 | Cost: 3.154359e-01Iteration     4 | Cost: 3.147323e-01Iteration     5 | Cost: 3.107738e-01
+Lmabda: 0.069519 Iteraciones: 50 Porcentaje de aciertos: 96.300000
+Iteration     1 | Cost: 3.088558e-01Iteration     2 | Cost: 3.066411e-01Iteration     3 | Cost: 3.038304e-01Iteration     4 | Cost: 3.024354e-01Iteration     5 | Cost: 3.011691e-01
+Lmabda: 0.069519 Iteraciones: 55 Porcentaje de aciertos: 96.420000
+Iteration     1 | Cost: 2.948770e-01Iteration     2 | Cost: 2.937867e-01Iteration     3 | Cost: 2.923753e-01Iteration     4 | Cost: 2.899841e-01Iteration     5 | Cost: 2.808274e-01
+Lmabda: 0.069519 Iteraciones: 60 Porcentaje de aciertos: 97.020000
+Iteration     1 | Cost: 2.741051e-01Iteration     2 | Cost: 2.725621e-01Iteration     3 | Cost: 2.709609e-01Iteration     4 | Cost: 2.697771e-01Iteration     5 | Cost: 2.677522e-01
+Lmabda: 0.069519 Iteraciones: 65 Porcentaje de aciertos: 97.220000
+Iteration     1 | Cost: 2.658077e-01Iteration     2 | Cost: 2.639353e-01Iteration     3 | Cost: 2.627963e-01Iteration     4 | Cost: 2.612752e-01Iteration     5 | Cost: 2.570333e-01
+Lmabda: 0.069519 Iteraciones: 70 Porcentaje de aciertos: 97.180000
+Iteration     1 | Cost: 2.556237e-01Iteration     2 | Cost: 2.547405e-01Iteration     3 | Cost: 2.518445e-01Iteration     4 | Cost: 2.479384e-01Iteration     5 | Cost: 2.449295e-01
+Lmabda: 0.069519 Iteraciones: 75 Porcentaje de aciertos: 97.560000
+Iteration     1 | Cost: 2.435765e-01Iteration     2 | Cost: 2.422029e-01Iteration     3 | Cost: 2.406244e-01Iteration     4 | Cost: 2.389655e-01Iteration     5 | Cost: 2.353850e-01
+Lmabda: 0.069519 Iteraciones: 80 Porcentaje de aciertos: 97.600000
+Iteration     1 | Cost: 2.329664e-01Iteration     2 | Cost: 2.320617e-01Iteration     3 | Cost: 2.310770e-01Iteration     4 | Cost: 2.286845e-01Iteration     5 | Cost: 2.254008e-01
+Lmabda: 0.069519 Iteraciones: 85 Porcentaje de aciertos: 97.860000
+Iteration     1 | Cost: 2.240506e-01Iteration     2 | Cost: 2.226545e-01Iteration     3 | Cost: 2.215683e-01Iteration     4 | Cost: 2.201784e-01Iteration     5 | Cost: 2.198784e-01
+Lmabda: 0.069519 Iteraciones: 90 Porcentaje de aciertos: 97.860000
+Iteration     1 | Cost: 2.195798e-01Iteration     2 | Cost: 2.160601e-01Iteration     3 | Cost: 2.053847e-01Iteration     4 | Cost: 1.859206e-01Iteration     5 | Cost: 1.764809e-01
+Lmabda: 0.069519 Iteraciones: 95 Porcentaje de aciertos: 98.680000
+Iteration     1 | Cost: 1.559801e-01Iteration     2 | Cost: 1.529994e-01Iteration     3 | Cost: 1.506381e-01Iteration     4 | Cost: 1.492164e-01Iteration     5 | Cost: 1.483450e-01
+Lmabda: 0.069519 Iteraciones: 100 Porcentaje de aciertos: 99.060000
+Iteration     1 | Cost: 3.295362e+00Iteration     2 | Cost: 3.234822e+00Iteration     3 | Cost: 3.202180e+00Iteration     4 | Cost: 2.624153e+00Iteration     5 | Cost: 2.262017e+00
+Lmabda: 0.127427 Iteraciones: 5 Porcentaje de aciertos: 57.140000
+Iteration     1 | Cost: 2.048774e+00Iteration     2 | Cost: 1.784075e+00Iteration     3 | Cost: 1.608897e+00Iteration     4 | Cost: 1.501192e+00Iteration     5 | Cost: 1.366059e+00
+Lmabda: 0.127427 Iteraciones: 10 Porcentaje de aciertos: 81.060000
+Iteration     1 | Cost: 1.317668e+00Iteration     2 | Cost: 1.196401e+00Iteration     3 | Cost: 1.142635e+00Iteration     4 | Cost: 1.065026e+00Iteration     5 | Cost: 9.980620e-01
+Lmabda: 0.127427 Iteraciones: 15 Porcentaje de aciertos: 86.480000
+Iteration     1 | Cost: 9.780503e-01Iteration     2 | Cost: 9.146714e-01Iteration     3 | Cost: 8.783572e-01Iteration     4 | Cost: 8.293847e-01Iteration     5 | Cost: 7.818071e-01
+Lmabda: 0.127427 Iteraciones: 20 Porcentaje de aciertos: 89.820000
+Iteration     1 | Cost: 7.709051e-01Iteration     2 | Cost: 7.451431e-01Iteration     3 | Cost: 7.268826e-01Iteration     4 | Cost: 7.123873e-01Iteration     5 | Cost: 6.921432e-01
+Lmabda: 0.127427 Iteraciones: 25 Porcentaje de aciertos: 91.200000
+Iteration     1 | Cost: 6.754775e-01Iteration     2 | Cost: 6.637952e-01Iteration     3 | Cost: 6.538840e-01Iteration     4 | Cost: 6.421330e-01Iteration     5 | Cost: 6.293884e-01
+Lmabda: 0.127427 Iteraciones: 30 Porcentaje de aciertos: 91.860000
+Iteration     1 | Cost: 6.247856e-01Iteration     2 | Cost: 6.133387e-01Iteration     3 | Cost: 5.974322e-01Iteration     4 | Cost: 5.890191e-01Iteration     5 | Cost: 5.816341e-01
+Lmabda: 0.127427 Iteraciones: 35 Porcentaje de aciertos: 92.220000
+Iteration     1 | Cost: 5.684621e-01Iteration     2 | Cost: 5.653488e-01Iteration     3 | Cost: 5.559327e-01Iteration     4 | Cost: 4.885381e-01Iteration     5 | Cost: 4.210053e-01
+Lmabda: 0.127427 Iteraciones: 40 Porcentaje de aciertos: 94.460000
+Iteration     1 | Cost: 4.063877e-01Iteration     2 | Cost: 3.940971e-01Iteration     3 | Cost: 3.887393e-01Iteration     4 | Cost: 3.835613e-01Iteration     5 | Cost: 3.784132e-01
+Lmabda: 0.127427 Iteraciones: 45 Porcentaje de aciertos: 95.020000
+Iteration     1 | Cost: 3.749893e-01Iteration     2 | Cost: 3.725990e-01Iteration     3 | Cost: 3.705321e-01Iteration     4 | Cost: 3.633526e-01Iteration     5 | Cost: 3.586058e-01
+Lmabda: 0.127427 Iteraciones: 50 Porcentaje de aciertos: 95.480000
+Iteration     1 | Cost: 3.535385e-01Iteration     2 | Cost: 3.500574e-01Iteration     3 | Cost: 3.484493e-01Iteration     4 | Cost: 3.446595e-01Iteration     5 | Cost: 3.432282e-01
+Lmabda: 0.127427 Iteraciones: 55 Porcentaje de aciertos: 95.980000
+Iteration     1 | Cost: 3.420492e-01Iteration     2 | Cost: 3.406216e-01Iteration     3 | Cost: 3.372650e-01Iteration     4 | Cost: 3.246156e-01Iteration     5 | Cost: 3.181601e-01
+Lmabda: 0.127427 Iteraciones: 60 Porcentaje de aciertos: 96.340000
+Iteration     1 | Cost: 3.150881e-01Iteration     2 | Cost: 3.105187e-01Iteration     3 | Cost: 3.098352e-01Iteration     4 | Cost: 3.070417e-01Iteration     5 | Cost: 3.054076e-01
+Lmabda: 0.127427 Iteraciones: 65 Porcentaje de aciertos: 96.640000
+Iteration     1 | Cost: 3.044357e-01Iteration     2 | Cost: 3.036432e-01Iteration     3 | Cost: 3.018341e-01Iteration     4 | Cost: 2.945064e-01Iteration     5 | Cost: 2.916042e-01
+Lmabda: 0.127427 Iteraciones: 70 Porcentaje de aciertos: 96.960000
+Iteration     1 | Cost: 2.899523e-01Iteration     2 | Cost: 2.860246e-01Iteration     3 | Cost: 2.853486e-01Iteration     4 | Cost: 2.800394e-01Iteration     5 | Cost: 2.687808e-01
+Lmabda: 0.127427 Iteraciones: 75 Porcentaje de aciertos: 97.340000
+Iteration     1 | Cost: 2.616473e-01Iteration     2 | Cost: 2.560059e-01Iteration     3 | Cost: 2.530410e-01Iteration     4 | Cost: 2.512799e-01Iteration     5 | Cost: 2.510388e-01
+Lmabda: 0.127427 Iteraciones: 80 Porcentaje de aciertos: 97.580000
+Iteration     1 | Cost: 2.498687e-01Iteration     2 | Cost: 2.493700e-01Iteration     3 | Cost: 2.481094e-01Iteration     4 | Cost: 2.383864e-01Iteration     5 | Cost: 2.264162e-01
+Lmabda: 0.127427 Iteraciones: 85 Porcentaje de aciertos: 98.020000
+Iteration     1 | Cost: 2.164762e-01Iteration     2 | Cost: 2.135035e-01Iteration     3 | Cost: 2.117960e-01Iteration     4 | Cost: 2.110895e-01Iteration     5 | Cost: 2.100921e-01
+Lmabda: 0.127427 Iteraciones: 90 Porcentaje de aciertos: 98.200000
+Iteration     1 | Cost: 2.095385e-01Iteration     2 | Cost: 2.088479e-01Iteration     3 | Cost: 2.076082e-01Iteration     4 | Cost: 2.058375e-01Iteration     5 | Cost: 2.042297e-01
+Lmabda: 0.127427 Iteraciones: 95 Porcentaje de aciertos: 98.300000
+Iteration     1 | Cost: 2.037570e-01Iteration     2 | Cost: 2.030043e-01Iteration     3 | Cost: 2.022145e-01Iteration     4 | Cost: 2.010889e-01Iteration     5 | Cost: 2.001775e-01
+Lmabda: 0.127427 Iteraciones: 100 Porcentaje de aciertos: 98.360000
+Iteration     1 | Cost: 3.295937e+00Iteration     2 | Cost: 3.235394e+00Iteration     3 | Cost: 3.202780e+00Iteration     4 | Cost: 2.625452e+00Iteration     5 | Cost: 2.264207e+00
+Lmabda: 0.233572 Iteraciones: 5 Porcentaje de aciertos: 57.160000
+Iteration     1 | Cost: 2.051791e+00Iteration     2 | Cost: 1.786665e+00Iteration     3 | Cost: 1.614571e+00Iteration     4 | Cost: 1.510277e+00Iteration     5 | Cost: 1.376396e+00
+Lmabda: 0.233572 Iteraciones: 10 Porcentaje de aciertos: 80.780000
+Iteration     1 | Cost: 1.328241e+00Iteration     2 | Cost: 1.208707e+00Iteration     3 | Cost: 1.152371e+00Iteration     4 | Cost: 1.076726e+00Iteration     5 | Cost: 1.001070e+00
+Lmabda: 0.233572 Iteraciones: 15 Porcentaje de aciertos: 86.260000
+Iteration     1 | Cost: 9.770525e-01Iteration     2 | Cost: 9.203989e-01Iteration     3 | Cost: 8.891411e-01Iteration     4 | Cost: 8.733247e-01Iteration     5 | Cost: 8.296625e-01
+Lmabda: 0.233572 Iteraciones: 20 Porcentaje de aciertos: 89.460000
+Iteration     1 | Cost: 8.023825e-01Iteration     2 | Cost: 7.672817e-01Iteration     3 | Cost: 7.495209e-01Iteration     4 | Cost: 7.356103e-01Iteration     5 | Cost: 7.125387e-01
+Lmabda: 0.233572 Iteraciones: 25 Porcentaje de aciertos: 90.960000
+Iteration     1 | Cost: 6.984326e-01Iteration     2 | Cost: 6.817987e-01Iteration     3 | Cost: 6.712052e-01Iteration     4 | Cost: 6.609867e-01Iteration     5 | Cost: 6.474041e-01
+Lmabda: 0.233572 Iteraciones: 30 Porcentaje de aciertos: 91.880000
+Iteration     1 | Cost: 6.406091e-01Iteration     2 | Cost: 6.222860e-01Iteration     3 | Cost: 6.119093e-01Iteration     4 | Cost: 5.995306e-01Iteration     5 | Cost: 5.626527e-01
+Lmabda: 0.233572 Iteraciones: 35 Porcentaje de aciertos: 93.080000
+Iteration     1 | Cost: 5.536567e-01Iteration     2 | Cost: 5.468411e-01Iteration     3 | Cost: 5.401859e-01Iteration     4 | Cost: 5.272169e-01Iteration     5 | Cost: 5.148587e-01
+Lmabda: 0.233572 Iteraciones: 40 Porcentaje de aciertos: 93.480000
+Iteration     1 | Cost: 5.051014e-01Iteration     2 | Cost: 4.941153e-01Iteration     3 | Cost: 4.885040e-01Iteration     4 | Cost: 4.854689e-01Iteration     5 | Cost: 4.828775e-01
+Lmabda: 0.233572 Iteraciones: 45 Porcentaje de aciertos: 94.000000
+Iteration     1 | Cost: 4.769055e-01Iteration     2 | Cost: 4.708587e-01Iteration     3 | Cost: 4.654220e-01Iteration     4 | Cost: 4.617831e-01Iteration     5 | Cost: 4.597355e-01
+Lmabda: 0.233572 Iteraciones: 50 Porcentaje de aciertos: 94.520000
+Iteration     1 | Cost: 4.514327e-01Iteration     2 | Cost: 4.469976e-01Iteration     3 | Cost: 4.442759e-01Iteration     4 | Cost: 4.430560e-01Iteration     5 | Cost: 4.383443e-01
+Lmabda: 0.233572 Iteraciones: 55 Porcentaje de aciertos: 94.820000
+Iteration     1 | Cost: 4.362186e-01Iteration     2 | Cost: 4.310736e-01Iteration     3 | Cost: 4.277708e-01Iteration     4 | Cost: 4.239276e-01Iteration     5 | Cost: 4.091584e-01
+Lmabda: 0.233572 Iteraciones: 60 Porcentaje de aciertos: 95.060000
+Iteration     1 | Cost: 4.057222e-01Iteration     2 | Cost: 4.026220e-01Iteration     3 | Cost: 3.988451e-01Iteration     4 | Cost: 3.952869e-01Iteration     5 | Cost: 3.916358e-01
+Lmabda: 0.233572 Iteraciones: 65 Porcentaje de aciertos: 95.460000
+Iteration     1 | Cost: 3.885409e-01Iteration     2 | Cost: 3.868012e-01Iteration     3 | Cost: 3.857817e-01Iteration     4 | Cost: 3.817774e-01Iteration     5 | Cost: 3.803396e-01
+Lmabda: 0.233572 Iteraciones: 70 Porcentaje de aciertos: 95.520000
+Iteration     1 | Cost: 3.795964e-01Iteration     2 | Cost: 3.698014e-01Iteration     3 | Cost: 3.657280e-01Iteration     4 | Cost: 3.571490e-01Iteration     5 | Cost: 3.374645e-01
+Lmabda: 0.233572 Iteraciones: 75 Porcentaje de aciertos: 96.360000
+Iteration     1 | Cost: 3.243534e-01Iteration     2 | Cost: 3.204270e-01Iteration     3 | Cost: 3.195298e-01Iteration     4 | Cost: 3.172926e-01Iteration     5 | Cost: 3.147542e-01
+Lmabda: 0.233572 Iteraciones: 80 Porcentaje de aciertos: 96.780000
+Iteration     1 | Cost: 3.131346e-01Iteration     2 | Cost: 3.115340e-01Iteration     3 | Cost: 3.102881e-01Iteration     4 | Cost: 3.089360e-01Iteration     5 | Cost: 3.075734e-01
+Lmabda: 0.233572 Iteraciones: 85 Porcentaje de aciertos: 96.900000
+Iteration     1 | Cost: 3.066188e-01Iteration     2 | Cost: 3.045916e-01Iteration     3 | Cost: 3.035913e-01Iteration     4 | Cost: 2.996244e-01Iteration     5 | Cost: 2.866223e-01
+Lmabda: 0.233572 Iteraciones: 90 Porcentaje de aciertos: 97.340000
+Iteration     1 | Cost: 2.850965e-01Iteration     2 | Cost: 2.839334e-01Iteration     3 | Cost: 2.829315e-01Iteration     4 | Cost: 2.811177e-01Iteration     5 | Cost: 2.773224e-01
+Lmabda: 0.233572 Iteraciones: 95 Porcentaje de aciertos: 97.520000
+Iteration     1 | Cost: 2.757022e-01Iteration     2 | Cost: 2.749211e-01Iteration     3 | Cost: 2.738986e-01Iteration     4 | Cost: 2.722029e-01Iteration     5 | Cost: 2.700255e-01
+Lmabda: 0.233572 Iteraciones: 100 Porcentaje de aciertos: 97.620000
+Iteration     1 | Cost: 3.296991e+00Iteration     2 | Cost: 3.236443e+00Iteration     3 | Cost: 3.203880e+00Iteration     4 | Cost: 2.627826e+00Iteration     5 | Cost: 2.268207e+00
+Lmabda: 0.428133 Iteraciones: 5 Porcentaje de aciertos: 57.120000
+Iteration     1 | Cost: 2.057291e+00Iteration     2 | Cost: 1.791434e+00Iteration     3 | Cost: 1.625062e+00Iteration     4 | Cost: 1.527633e+00Iteration     5 | Cost: 1.396749e+00
+Lmabda: 0.428133 Iteraciones: 10 Porcentaje de aciertos: 80.040000
+Iteration     1 | Cost: 1.347053e+00Iteration     2 | Cost: 1.239567e+00Iteration     3 | Cost: 1.170214e+00Iteration     4 | Cost: 1.126333e+00Iteration     5 | Cost: 1.061435e+00
+Lmabda: 0.428133 Iteraciones: 15 Porcentaje de aciertos: 85.560000
+Iteration     1 | Cost: 1.009199e+00Iteration     2 | Cost: 9.619769e-01Iteration     3 | Cost: 9.101831e-01Iteration     4 | Cost: 8.891063e-01Iteration     5 | Cost: 8.425627e-01
+Lmabda: 0.428133 Iteraciones: 20 Porcentaje de aciertos: 89.300000
+Iteration     1 | Cost: 8.180050e-01Iteration     2 | Cost: 8.002106e-01Iteration     3 | Cost: 7.852998e-01Iteration     4 | Cost: 7.639472e-01Iteration     5 | Cost: 7.450201e-01
+Lmabda: 0.428133 Iteraciones: 25 Porcentaje de aciertos: 90.620000
+Iteration     1 | Cost: 7.259022e-01Iteration     2 | Cost: 7.161816e-01Iteration     3 | Cost: 7.018424e-01Iteration     4 | Cost: 6.934514e-01Iteration     5 | Cost: 6.846751e-01
+Lmabda: 0.428133 Iteraciones: 30 Porcentaje de aciertos: 91.420000
+Iteration     1 | Cost: 6.709761e-01Iteration     2 | Cost: 6.661151e-01Iteration     3 | Cost: 6.527021e-01Iteration     4 | Cost: 5.515890e-01Iteration     5 | Cost: 5.172930e-01
+Lmabda: 0.428133 Iteraciones: 35 Porcentaje de aciertos: 93.500000
+Iteration     1 | Cost: 5.047476e-01Iteration     2 | Cost: 4.882042e-01Iteration     3 | Cost: 4.809206e-01Iteration     4 | Cost: 4.761416e-01Iteration     5 | Cost: 4.730420e-01
+Lmabda: 0.428133 Iteraciones: 40 Porcentaje de aciertos: 94.260000
+Iteration     1 | Cost: 4.690181e-01Iteration     2 | Cost: 4.633304e-01Iteration     3 | Cost: 4.595040e-01Iteration     4 | Cost: 4.548721e-01Iteration     5 | Cost: 4.441471e-01
+Lmabda: 0.428133 Iteraciones: 45 Porcentaje de aciertos: 94.500000
+Iteration     1 | Cost: 4.388805e-01Iteration     2 | Cost: 4.364909e-01Iteration     3 | Cost: 4.335085e-01Iteration     4 | Cost: 4.286738e-01Iteration     5 | Cost: 4.227407e-01
+Lmabda: 0.428133 Iteraciones: 50 Porcentaje de aciertos: 95.280000
+Iteration     1 | Cost: 4.183472e-01Iteration     2 | Cost: 4.157490e-01Iteration     3 | Cost: 4.123731e-01Iteration     4 | Cost: 4.103436e-01Iteration     5 | Cost: 4.090580e-01
+Lmabda: 0.428133 Iteraciones: 55 Porcentaje de aciertos: 95.500000
+Iteration     1 | Cost: 4.076055e-01Iteration     2 | Cost: 4.063371e-01Iteration     3 | Cost: 4.005973e-01Iteration     4 | Cost: 3.832445e-01Iteration     5 | Cost: 3.760987e-01
+Lmabda: 0.428133 Iteraciones: 60 Porcentaje de aciertos: 96.000000
+Iteration     1 | Cost: 3.679699e-01Iteration     2 | Cost: 3.645101e-01Iteration     3 | Cost: 3.630859e-01Iteration     4 | Cost: 3.617126e-01Iteration     5 | Cost: 3.608082e-01
+Lmabda: 0.428133 Iteraciones: 65 Porcentaje de aciertos: 96.480000
+Iteration     1 | Cost: 3.599877e-01Iteration     2 | Cost: 3.593307e-01Iteration     3 | Cost: 3.570946e-01Iteration     4 | Cost: 3.374679e-01Iteration     5 | Cost: 2.965939e-01
+Lmabda: 0.428133 Iteraciones: 70 Porcentaje de aciertos: 97.860000
+Iteration     1 | Cost: 2.895941e-01Iteration     2 | Cost: 2.871907e-01Iteration     3 | Cost: 2.859527e-01Iteration     4 | Cost: 2.855055e-01Iteration     5 | Cost: 2.837578e-01
+Lmabda: 0.428133 Iteraciones: 75 Porcentaje de aciertos: 98.080000
+Iteration     1 | Cost: 2.830565e-01Iteration     2 | Cost: 2.825335e-01Iteration     3 | Cost: 2.818176e-01Iteration     4 | Cost: 2.810884e-01Iteration     5 | Cost: 2.806567e-01
+Lmabda: 0.428133 Iteraciones: 80 Porcentaje de aciertos: 98.040000
+Iteration     1 | Cost: 2.802425e-01Iteration     2 | Cost: 2.789572e-01Iteration     3 | Cost: 2.708662e-01Iteration     4 | Cost: 2.663407e-01Iteration     5 | Cost: 2.641376e-01
+Lmabda: 0.428133 Iteraciones: 85 Porcentaje de aciertos: 98.220000
+Iteration     1 | Cost: 2.631159e-01Iteration     2 | Cost: 2.621275e-01Iteration     3 | Cost: 2.601724e-01Iteration     4 | Cost: 2.574586e-01Iteration     5 | Cost: 2.567460e-01
+Lmabda: 0.428133 Iteraciones: 90 Porcentaje de aciertos: 98.440000
+Iteration     1 | Cost: 2.564944e-01Iteration     2 | Cost: 2.560656e-01Iteration     3 | Cost: 2.554770e-01Iteration     4 | Cost: 2.548723e-01Iteration     5 | Cost: 2.546370e-01
+Lmabda: 0.428133 Iteraciones: 95 Porcentaje de aciertos: 98.480000
+Iteration     1 | Cost: 2.544790e-01Iteration     2 | Cost: 2.537704e-01Iteration     3 | Cost: 2.531635e-01Iteration     4 | Cost: 2.512516e-01Iteration     5 | Cost: 2.470957e-01
+Lmabda: 0.428133 Iteraciones: 100 Porcentaje de aciertos: 98.860000
+Iteration     1 | Cost: 3.298922e+00Iteration     2 | Cost: 3.238364e+00Iteration     3 | Cost: 3.205891e+00Iteration     4 | Cost: 2.632157e+00Iteration     5 | Cost: 2.275499e+00
+Lmabda: 0.784760 Iteraciones: 5 Porcentaje de aciertos: 57.120000
+Iteration     1 | Cost: 2.067276e+00Iteration     2 | Cost: 1.800239e+00Iteration     3 | Cost: 1.644557e+00Iteration     4 | Cost: 1.562271e+00Iteration     5 | Cost: 1.428064e+00
+Lmabda: 0.784760 Iteraciones: 10 Porcentaje de aciertos: 78.480000
+Iteration     1 | Cost: 1.365258e+00Iteration     2 | Cost: 1.292563e+00Iteration     3 | Cost: 1.216563e+00Iteration     4 | Cost: 1.146004e+00Iteration     5 | Cost: 9.750224e-01
+Lmabda: 0.784760 Iteraciones: 15 Porcentaje de aciertos: 87.480000
+Iteration     1 | Cost: 9.385000e-01Iteration     2 | Cost: 9.075004e-01Iteration     3 | Cost: 8.870881e-01Iteration     4 | Cost: 8.692358e-01Iteration     5 | Cost: 8.400097e-01
+Lmabda: 0.784760 Iteraciones: 20 Porcentaje de aciertos: 89.960000
+Iteration     1 | Cost: 8.231648e-01Iteration     2 | Cost: 8.050235e-01Iteration     3 | Cost: 7.867917e-01Iteration     4 | Cost: 7.678881e-01Iteration     5 | Cost: 7.334091e-01
+Lmabda: 0.784760 Iteraciones: 25 Porcentaje de aciertos: 90.920000
+Iteration     1 | Cost: 7.179915e-01Iteration     2 | Cost: 7.022054e-01Iteration     3 | Cost: 6.949296e-01Iteration     4 | Cost: 6.893251e-01Iteration     5 | Cost: 6.754243e-01
+Lmabda: 0.784760 Iteraciones: 30 Porcentaje de aciertos: 91.960000
+Iteration     1 | Cost: 6.716158e-01Iteration     2 | Cost: 6.574342e-01Iteration     3 | Cost: 6.455804e-01Iteration     4 | Cost: 6.288631e-01Iteration     5 | Cost: 6.058043e-01
+Lmabda: 0.784760 Iteraciones: 35 Porcentaje de aciertos: 92.900000
+Iteration     1 | Cost: 5.970818e-01Iteration     2 | Cost: 5.930069e-01Iteration     3 | Cost: 5.830921e-01Iteration     4 | Cost: 5.768204e-01Iteration     5 | Cost: 5.576084e-01
+Lmabda: 0.784760 Iteraciones: 40 Porcentaje de aciertos: 93.660000
+Iteration     1 | Cost: 5.437343e-01Iteration     2 | Cost: 5.378835e-01Iteration     3 | Cost: 5.315818e-01Iteration     4 | Cost: 5.279798e-01Iteration     5 | Cost: 5.257933e-01
+Lmabda: 0.784760 Iteraciones: 45 Porcentaje de aciertos: 94.160000
+Iteration     1 | Cost: 5.223074e-01Iteration     2 | Cost: 5.197533e-01Iteration     3 | Cost: 5.170383e-01Iteration     4 | Cost: 5.119518e-01Iteration     5 | Cost: 5.094314e-01
+Lmabda: 0.784760 Iteraciones: 50 Porcentaje de aciertos: 94.380000
+Iteration     1 | Cost: 5.078466e-01Iteration     2 | Cost: 5.062179e-01Iteration     3 | Cost: 5.028050e-01Iteration     4 | Cost: 4.927665e-01Iteration     5 | Cost: 4.838699e-01
+Lmabda: 0.784760 Iteraciones: 55 Porcentaje de aciertos: 94.820000
+Iteration     1 | Cost: 4.764370e-01Iteration     2 | Cost: 4.692993e-01Iteration     3 | Cost: 4.660786e-01Iteration     4 | Cost: 4.640242e-01Iteration     5 | Cost: 4.568093e-01
+Lmabda: 0.784760 Iteraciones: 60 Porcentaje de aciertos: 95.320000
+Iteration     1 | Cost: 4.535555e-01Iteration     2 | Cost: 4.518622e-01Iteration     3 | Cost: 4.501163e-01Iteration     4 | Cost: 4.481822e-01Iteration     5 | Cost: 4.443429e-01
+Lmabda: 0.784760 Iteraciones: 65 Porcentaje de aciertos: 95.500000
+Iteration     1 | Cost: 4.419867e-01Iteration     2 | Cost: 4.404918e-01Iteration     3 | Cost: 4.398227e-01Iteration     4 | Cost: 4.377039e-01Iteration     5 | Cost: 4.366883e-01
+Lmabda: 0.784760 Iteraciones: 70 Porcentaje de aciertos: 95.720000
+Iteration     1 | Cost: 4.360786e-01Iteration     2 | Cost: 4.346364e-01Iteration     3 | Cost: 4.288197e-01Iteration     4 | Cost: 4.169509e-01Iteration     5 | Cost: 4.053070e-01
+Lmabda: 0.784760 Iteraciones: 75 Porcentaje de aciertos: 96.660000
+Iteration     1 | Cost: 3.923302e-01Iteration     2 | Cost: 3.894440e-01Iteration     3 | Cost: 3.877262e-01Iteration     4 | Cost: 3.875487e-01Iteration     5 | Cost: 3.867549e-01
+Lmabda: 0.784760 Iteraciones: 80 Porcentaje de aciertos: 96.920000
+Iteration     1 | Cost: 3.862353e-01Iteration     2 | Cost: 3.857451e-01Iteration     3 | Cost: 3.843017e-01Iteration     4 | Cost: 3.763978e-01Iteration     5 | Cost: 3.688845e-01
+Lmabda: 0.784760 Iteraciones: 85 Porcentaje de aciertos: 97.320000
+Iteration     1 | Cost: 3.623671e-01Iteration     2 | Cost: 3.568899e-01Iteration     3 | Cost: 3.541313e-01Iteration     4 | Cost: 3.531161e-01Iteration     5 | Cost: 3.523828e-01
+Lmabda: 0.784760 Iteraciones: 90 Porcentaje de aciertos: 97.620000
+Iteration     1 | Cost: 3.518247e-01Iteration     2 | Cost: 3.515115e-01Iteration     3 | Cost: 3.505777e-01Iteration     4 | Cost: 3.480531e-01Iteration     5 | Cost: 3.462334e-01
+Lmabda: 0.784760 Iteraciones: 95 Porcentaje de aciertos: 97.920000
+Iteration     1 | Cost: 3.452481e-01Iteration     2 | Cost: 3.438685e-01Iteration     3 | Cost: 3.433515e-01Iteration     4 | Cost: 3.419959e-01Iteration     5 | Cost: 3.410795e-01
+Lmabda: 0.784760 Iteraciones: 100 Porcentaje de aciertos: 97.940000
+Iteration     1 | Cost: 3.302460e+00Iteration     2 | Cost: 3.241882e+00Iteration     3 | Cost: 3.209565e+00Iteration     4 | Cost: 2.640025e+00Iteration     5 | Cost: 2.288729e+00
+Lmabda: 1.438450 Iteraciones: 5 Porcentaje de aciertos: 57.020000
+Iteration     1 | Cost: 2.085256e+00Iteration     2 | Cost: 1.816556e+00Iteration     3 | Cost: 1.680937e+00Iteration     4 | Cost: 1.628110e+00Iteration     5 | Cost: 1.456355e+00
+Lmabda: 1.438450 Iteraciones: 10 Porcentaje de aciertos: 79.500000
+Iteration     1 | Cost: 1.415111e+00Iteration     2 | Cost: 1.315479e+00Iteration     3 | Cost: 1.246982e+00Iteration     4 | Cost: 1.184405e+00Iteration     5 | Cost: 1.072518e+00
+Lmabda: 1.438450 Iteraciones: 15 Porcentaje de aciertos: 85.840000
+Iteration     1 | Cost: 1.021036e+00Iteration     2 | Cost: 9.774708e-01Iteration     3 | Cost: 9.445283e-01Iteration     4 | Cost: 9.223048e-01Iteration     5 | Cost: 8.896838e-01
+Lmabda: 1.438450 Iteraciones: 20 Porcentaje de aciertos: 89.700000
+Iteration     1 | Cost: 8.767697e-01Iteration     2 | Cost: 8.511951e-01Iteration     3 | Cost: 8.280544e-01Iteration     4 | Cost: 8.130473e-01Iteration     5 | Cost: 7.825436e-01
+Lmabda: 1.438450 Iteraciones: 25 Porcentaje de aciertos: 91.000000
+Iteration     1 | Cost: 7.438296e-01Iteration     2 | Cost: 7.256266e-01Iteration     3 | Cost: 7.087287e-01Iteration     4 | Cost: 7.002944e-01Iteration     5 | Cost: 6.934271e-01
+Lmabda: 1.438450 Iteraciones: 30 Porcentaje de aciertos: 91.960000
+Iteration     1 | Cost: 6.860454e-01Iteration     2 | Cost: 6.813977e-01Iteration     3 | Cost: 6.770087e-01Iteration     4 | Cost: 6.658388e-01Iteration     5 | Cost: 6.596361e-01
+Lmabda: 1.438450 Iteraciones: 35 Porcentaje de aciertos: 92.540000
+Iteration     1 | Cost: 6.561377e-01Iteration     2 | Cost: 6.523464e-01Iteration     3 | Cost: 6.412671e-01Iteration     4 | Cost: 6.285592e-01Iteration     5 | Cost: 6.159248e-01
+Lmabda: 1.438450 Iteraciones: 40 Porcentaje de aciertos: 93.420000
+Iteration     1 | Cost: 6.110992e-01Iteration     2 | Cost: 6.054975e-01Iteration     3 | Cost: 6.008440e-01Iteration     4 | Cost: 5.963295e-01Iteration     5 | Cost: 5.894679e-01
+Lmabda: 1.438450 Iteraciones: 45 Porcentaje de aciertos: 93.740000
+Iteration     1 | Cost: 5.856403e-01Iteration     2 | Cost: 5.812582e-01Iteration     3 | Cost: 5.783529e-01Iteration     4 | Cost: 5.764052e-01Iteration     5 | Cost: 5.738547e-01
+Lmabda: 1.438450 Iteraciones: 50 Porcentaje de aciertos: 94.160000
+Iteration     1 | Cost: 5.725171e-01Iteration     2 | Cost: 5.693215e-01Iteration     3 | Cost: 5.660449e-01Iteration     4 | Cost: 5.583684e-01Iteration     5 | Cost: 5.259476e-01
+Lmabda: 1.438450 Iteraciones: 55 Porcentaje de aciertos: 95.200000
+Iteration     1 | Cost: 5.170963e-01Iteration     2 | Cost: 5.142198e-01Iteration     3 | Cost: 5.126213e-01Iteration     4 | Cost: 5.110936e-01Iteration     5 | Cost: 5.098677e-01
+Lmabda: 1.438450 Iteraciones: 60 Porcentaje de aciertos: 95.600000
+Iteration     1 | Cost: 5.089143e-01Iteration     2 | Cost: 5.077641e-01Iteration     3 | Cost: 5.066665e-01Iteration     4 | Cost: 5.054325e-01Iteration     5 | Cost: 5.032211e-01
+Lmabda: 1.438450 Iteraciones: 65 Porcentaje de aciertos: 95.720000
+Iteration     1 | Cost: 5.021763e-01Iteration     2 | Cost: 5.013236e-01Iteration     3 | Cost: 5.002867e-01Iteration     4 | Cost: 4.993199e-01Iteration     5 | Cost: 4.970832e-01
+Lmabda: 1.438450 Iteraciones: 70 Porcentaje de aciertos: 95.820000
+Iteration     1 | Cost: 4.960906e-01Iteration     2 | Cost: 4.953038e-01Iteration     3 | Cost: 4.943500e-01Iteration     4 | Cost: 4.934308e-01Iteration     5 | Cost: 4.903584e-01
+Lmabda: 1.438450 Iteraciones: 75 Porcentaje de aciertos: 96.000000
+Iteration     1 | Cost: 4.897169e-01Iteration     2 | Cost: 4.888274e-01Iteration     3 | Cost: 4.882359e-01Iteration     4 | Cost: 4.865721e-01Iteration     5 | Cost: 4.846773e-01
+Lmabda: 1.438450 Iteraciones: 80 Porcentaje de aciertos: 96.240000
+Iteration     1 | Cost: 4.835374e-01Iteration     2 | Cost: 4.824458e-01Iteration     3 | Cost: 4.814844e-01Iteration     4 | Cost: 4.805902e-01Iteration     5 | Cost: 4.796948e-01
+Lmabda: 1.438450 Iteraciones: 85 Porcentaje de aciertos: 96.460000
+Iteration     1 | Cost: 4.790934e-01Iteration     2 | Cost: 4.777069e-01Iteration     3 | Cost: 4.771076e-01Iteration     4 | Cost: 4.762587e-01Iteration     5 | Cost: 4.741010e-01
+Lmabda: 1.438450 Iteraciones: 90 Porcentaje de aciertos: 96.540000
+Iteration     1 | Cost: 4.733452e-01Iteration     2 | Cost: 4.729187e-01Iteration     3 | Cost: 4.716001e-01Iteration     4 | Cost: 4.699253e-01Iteration     5 | Cost: 4.682715e-01
+Lmabda: 1.438450 Iteraciones: 95 Porcentaje de aciertos: 96.700000
+Iteration     1 | Cost: 4.677146e-01Iteration     2 | Cost: 4.664744e-01Iteration     3 | Cost: 4.659305e-01Iteration     4 | Cost: 4.653734e-01Iteration     5 | Cost: 4.638339e-01
+Lmabda: 1.438450 Iteraciones: 100 Porcentaje de aciertos: 96.820000
+Iteration     1 | Cost: 3.308943e+00Iteration     2 | Cost: 3.248321e+00Iteration     3 | Cost: 3.216255e+00Iteration     4 | Cost: 2.654213e+00Iteration     5 | Cost: 2.312553e+00
+Lmabda: 2.636651 Iteraciones: 5 Porcentaje de aciertos: 56.900000
+Iteration     1 | Cost: 2.117153e+00Iteration     2 | Cost: 1.846818e+00Iteration     3 | Cost: 1.748375e+00Iteration     4 | Cost: 1.733219e+00Iteration     5 | Cost: 1.572786e+00
+Lmabda: 2.636651 Iteraciones: 10 Porcentaje de aciertos: 75.540000
+Iteration     1 | Cost: 1.520169e+00Iteration     2 | Cost: 1.454314e+00Iteration     3 | Cost: 1.304757e+00Iteration     4 | Cost: 1.172801e+00Iteration     5 | Cost: 1.074597e+00
+Lmabda: 2.636651 Iteraciones: 15 Porcentaje de aciertos: 87.340000
+Iteration     1 | Cost: 1.024344e+00Iteration     2 | Cost: 9.671178e-01Iteration     3 | Cost: 9.184896e-01Iteration     4 | Cost: 9.027446e-01Iteration     5 | Cost: 8.849101e-01
+Lmabda: 2.636651 Iteraciones: 20 Porcentaje de aciertos: 90.040000
+Iteration     1 | Cost: 8.750344e-01Iteration     2 | Cost: 8.612279e-01Iteration     3 | Cost: 8.502586e-01Iteration     4 | Cost: 8.360964e-01Iteration     5 | Cost: 8.162155e-01
+Lmabda: 2.636651 Iteraciones: 25 Porcentaje de aciertos: 91.300000
+Iteration     1 | Cost: 8.099266e-01Iteration     2 | Cost: 8.041383e-01Iteration     3 | Cost: 7.985258e-01Iteration     4 | Cost: 7.874393e-01Iteration     5 | Cost: 7.739765e-01
+Lmabda: 2.636651 Iteraciones: 30 Porcentaje de aciertos: 92.120000
+Iteration     1 | Cost: 7.676787e-01Iteration     2 | Cost: 7.530411e-01Iteration     3 | Cost: 7.493134e-01Iteration     4 | Cost: 7.450178e-01Iteration     5 | Cost: 7.371301e-01
+Lmabda: 2.636651 Iteraciones: 35 Porcentaje de aciertos: 92.840000
+Iteration     1 | Cost: 7.328902e-01Iteration     2 | Cost: 7.291677e-01Iteration     3 | Cost: 7.255550e-01Iteration     4 | Cost: 7.168358e-01Iteration     5 | Cost: 7.105133e-01
+Lmabda: 2.636651 Iteraciones: 40 Porcentaje de aciertos: 93.420000
+Iteration     1 | Cost: 7.019790e-01Iteration     2 | Cost: 6.921953e-01Iteration     3 | Cost: 6.883145e-01Iteration     4 | Cost: 6.863518e-01Iteration     5 | Cost: 6.824133e-01
+Lmabda: 2.636651 Iteraciones: 45 Porcentaje de aciertos: 93.740000
+Iteration     1 | Cost: 6.799628e-01Iteration     2 | Cost: 6.775360e-01Iteration     3 | Cost: 6.747916e-01Iteration     4 | Cost: 6.718214e-01Iteration     5 | Cost: 6.682743e-01
+Lmabda: 2.636651 Iteraciones: 50 Porcentaje de aciertos: 94.080000
+Iteration     1 | Cost: 6.667972e-01Iteration     2 | Cost: 6.652040e-01Iteration     3 | Cost: 6.631246e-01Iteration     4 | Cost: 6.613855e-01Iteration     5 | Cost: 6.572540e-01
+Lmabda: 2.636651 Iteraciones: 55 Porcentaje de aciertos: 94.300000
+Iteration     1 | Cost: 6.540248e-01Iteration     2 | Cost: 6.528901e-01Iteration     3 | Cost: 6.517085e-01Iteration     4 | Cost: 6.466111e-01Iteration     5 | Cost: 6.444213e-01
+Lmabda: 2.636651 Iteraciones: 60 Porcentaje de aciertos: 94.500000
+Iteration     1 | Cost: 6.434051e-01Iteration     2 | Cost: 6.423688e-01Iteration     3 | Cost: 6.397772e-01Iteration     4 | Cost: 6.382899e-01Iteration     5 | Cost: 6.335102e-01
+Lmabda: 2.636651 Iteraciones: 65 Porcentaje de aciertos: 94.940000
+Iteration     1 | Cost: 6.299499e-01Iteration     2 | Cost: 6.283621e-01Iteration     3 | Cost: 6.264947e-01Iteration     4 | Cost: 6.256964e-01Iteration     5 | Cost: 6.251017e-01
+Lmabda: 2.636651 Iteraciones: 70 Porcentaje de aciertos: 95.120000
+Iteration     1 | Cost: 6.243024e-01Iteration     2 | Cost: 6.238174e-01Iteration     3 | Cost: 6.225548e-01Iteration     4 | Cost: 6.195274e-01Iteration     5 | Cost: 6.168964e-01
+Lmabda: 2.636651 Iteraciones: 75 Porcentaje de aciertos: 95.500000
+Iteration     1 | Cost: 6.145505e-01Iteration     2 | Cost: 6.118736e-01Iteration     3 | Cost: 6.106944e-01Iteration     4 | Cost: 6.102211e-01Iteration     5 | Cost: 6.096979e-01
+Lmabda: 2.636651 Iteraciones: 80 Porcentaje de aciertos: 95.540000
+Iteration     1 | Cost: 6.093253e-01Iteration     2 | Cost: 6.086364e-01Iteration     3 | Cost: 6.076911e-01Iteration     4 | Cost: 6.068327e-01Iteration     5 | Cost: 6.060632e-01
+Lmabda: 2.636651 Iteraciones: 85 Porcentaje de aciertos: 95.700000
+Iteration     1 | Cost: 6.057110e-01Iteration     2 | Cost: 6.052889e-01Iteration     3 | Cost: 6.040624e-01Iteration     4 | Cost: 6.012246e-01Iteration     5 | Cost: 5.973221e-01
+Lmabda: 2.636651 Iteraciones: 90 Porcentaje de aciertos: 95.960000
+Iteration     1 | Cost: 5.948541e-01Iteration     2 | Cost: 5.931517e-01Iteration     3 | Cost: 5.923860e-01Iteration     4 | Cost: 5.919667e-01Iteration     5 | Cost: 5.919217e-01
+Lmabda: 2.636651 Iteraciones: 95 Porcentaje de aciertos: 96.140000
+Iteration     1 | Cost: 5.915809e-01Iteration     2 | Cost: 5.913688e-01Iteration     3 | Cost: 5.909891e-01Iteration     4 | Cost: 5.883843e-01Iteration     5 | Cost: 5.870644e-01
+Lmabda: 2.636651 Iteraciones: 100 Porcentaje de aciertos: 96.400000
+Iteration     1 | Cost: 3.320814e+00Iteration     2 | Cost: 3.260091e+00Iteration     3 | Cost: 3.228375e+00Iteration     4 | Cost: 2.679460e+00Iteration     5 | Cost: 2.354942e+00
+Lmabda: 4.832930 Iteraciones: 5 Porcentaje de aciertos: 56.900000
+Iteration     1 | Cost: 2.172170e+00Iteration     2 | Cost: 1.902100e+00Iteration     3 | Cost: 1.798179e+00Iteration     4 | Cost: 1.675098e+00Iteration     5 | Cost: 1.533985e+00
+Lmabda: 4.832930 Iteraciones: 10 Porcentaje de aciertos: 80.600000
+Iteration     1 | Cost: 1.498448e+00Iteration     2 | Cost: 1.406606e+00Iteration     3 | Cost: 1.249365e+00Iteration     4 | Cost: 1.192730e+00Iteration     5 | Cost: 1.128414e+00
+Lmabda: 4.832930 Iteraciones: 15 Porcentaje de aciertos: 87.660000
+Iteration     1 | Cost: 1.106034e+00Iteration     2 | Cost: 1.047534e+00Iteration     3 | Cost: 1.027188e+00Iteration     4 | Cost: 1.011900e+00Iteration     5 | Cost: 9.996940e-01
+Lmabda: 4.832930 Iteraciones: 20 Porcentaje de aciertos: 90.280000
+Iteration     1 | Cost: 9.834632e-01Iteration     2 | Cost: 9.678694e-01Iteration     3 | Cost: 9.576652e-01Iteration     4 | Cost: 9.518569e-01Iteration     5 | Cost: 9.452407e-01
+Lmabda: 4.832930 Iteraciones: 25 Porcentaje de aciertos: 91.140000
+Iteration     1 | Cost: 9.401237e-01Iteration     2 | Cost: 9.325670e-01Iteration     3 | Cost: 9.236041e-01Iteration     4 | Cost: 9.195410e-01Iteration     5 | Cost: 9.070425e-01
+Lmabda: 4.832930 Iteraciones: 30 Porcentaje de aciertos: 91.940000
+Iteration     1 | Cost: 9.035070e-01Iteration     2 | Cost: 8.990776e-01Iteration     3 | Cost: 8.942456e-01Iteration     4 | Cost: 8.862157e-01Iteration     5 | Cost: 8.667248e-01
+Lmabda: 4.832930 Iteraciones: 35 Porcentaje de aciertos: 92.620000
+Iteration     1 | Cost: 8.453837e-01Iteration     2 | Cost: 8.420939e-01Iteration     3 | Cost: 8.404630e-01Iteration     4 | Cost: 8.380801e-01Iteration     5 | Cost: 8.361898e-01
+Lmabda: 4.832930 Iteraciones: 40 Porcentaje de aciertos: 93.020000
+Iteration     1 | Cost: 8.353341e-01Iteration     2 | Cost: 8.328634e-01Iteration     3 | Cost: 8.267843e-01Iteration     4 | Cost: 8.184413e-01Iteration     5 | Cost: 8.056102e-01
+Lmabda: 4.832930 Iteraciones: 45 Porcentaje de aciertos: 93.900000
+Iteration     1 | Cost: 8.031346e-01Iteration     2 | Cost: 8.017857e-01Iteration     3 | Cost: 8.008407e-01Iteration     4 | Cost: 7.999258e-01Iteration     5 | Cost: 7.978444e-01
+Lmabda: 4.832930 Iteraciones: 50 Porcentaje de aciertos: 93.980000
+Iteration     1 | Cost: 7.965809e-01Iteration     2 | Cost: 7.958582e-01Iteration     3 | Cost: 7.955321e-01Iteration     4 | Cost: 7.944450e-01Iteration     5 | Cost: 7.938663e-01
+Lmabda: 4.832930 Iteraciones: 55 Porcentaje de aciertos: 94.120000
+Iteration     1 | Cost: 7.935701e-01Iteration     2 | Cost: 7.926136e-01Iteration     3 | Cost: 7.892104e-01Iteration     4 | Cost: 7.855851e-01Iteration     5 | Cost: 7.788400e-01
+Lmabda: 4.832930 Iteraciones: 60 Porcentaje de aciertos: 94.680000
+Iteration     1 | Cost: 7.767163e-01Iteration     2 | Cost: 7.758417e-01Iteration     3 | Cost: 7.754955e-01Iteration     4 | Cost: 7.751227e-01Iteration     5 | Cost: 7.747044e-01
+Lmabda: 4.832930 Iteraciones: 65 Porcentaje de aciertos: 94.540000
+Iteration     1 | Cost: 7.745042e-01Iteration     2 | Cost: 7.742669e-01Iteration     3 | Cost: 7.725990e-01Iteration     4 | Cost: 7.672235e-01Iteration     5 | Cost: 7.604261e-01
+Lmabda: 4.832930 Iteraciones: 70 Porcentaje de aciertos: 95.080000
+Iteration     1 | Cost: 7.585148e-01Iteration     2 | Cost: 7.578966e-01Iteration     3 | Cost: 7.574668e-01Iteration     4 | Cost: 7.573617e-01Iteration     5 | Cost: 7.570957e-01
+Lmabda: 4.832930 Iteraciones: 75 Porcentaje de aciertos: 95.200000
+Iteration     1 | Cost: 7.569811e-01Iteration     2 | Cost: 7.568352e-01Iteration     3 | Cost: 7.564363e-01Iteration     4 | Cost: 7.555518e-01Iteration     5 | Cost: 7.537649e-01
+Lmabda: 4.832930 Iteraciones: 80 Porcentaje de aciertos: 95.280000
+Iteration     1 | Cost: 7.523923e-01Iteration     2 | Cost: 7.516965e-01Iteration     3 | Cost: 7.516168e-01Iteration     4 | Cost: 7.511293e-01Iteration     5 | Cost: 7.509027e-01
+Lmabda: 4.832930 Iteraciones: 85 Porcentaje de aciertos: 95.440000
+Iteration     1 | Cost: 7.508286e-01Iteration     2 | Cost: 7.506367e-01Iteration     3 | Cost: 7.504295e-01Iteration     4 | Cost: 7.502284e-01Iteration     5 | Cost: 7.495868e-01
+Lmabda: 4.832930 Iteraciones: 90 Porcentaje de aciertos: 95.480000
+Iteration     1 | Cost: 7.494876e-01Iteration     2 | Cost: 7.493962e-01Iteration     3 | Cost: 7.492894e-01Iteration     4 | Cost: 7.490858e-01Iteration     5 | Cost: 7.487824e-01
+Lmabda: 4.832930 Iteraciones: 95 Porcentaje de aciertos: 95.420000
+Iteration     1 | Cost: 7.485318e-01Iteration     2 | Cost: 7.484340e-01Iteration     3 | Cost: 7.483360e-01Iteration     4 | Cost: 7.481903e-01Iteration     5 | Cost: 7.481334e-01
+Lmabda: 4.832930 Iteraciones: 100 Porcentaje de aciertos: 95.520000
+Iteration     1 | Cost: 3.342537e+00Iteration     2 | Cost: 3.281553e+00Iteration     3 | Cost: 3.250123e+00Iteration     4 | Cost: 2.756564e+00Iteration     5 | Cost: 2.423482e+00
+Lmabda: 8.858668 Iteraciones: 5 Porcentaje de aciertos: 58.760000
+Iteration     1 | Cost: 2.293944e+00Iteration     2 | Cost: 1.936672e+00Iteration     3 | Cost: 1.834821e+00Iteration     4 | Cost: 1.680711e+00Iteration     5 | Cost: 1.559659e+00
+Lmabda: 8.858668 Iteraciones: 10 Porcentaje de aciertos: 81.880000
+Iteration     1 | Cost: 1.531122e+00Iteration     2 | Cost: 1.453941e+00Iteration     3 | Cost: 1.363096e+00Iteration     4 | Cost: 1.336427e+00Iteration     5 | Cost: 1.302214e+00
+Lmabda: 8.858668 Iteraciones: 15 Porcentaje de aciertos: 87.360000
+Iteration     1 | Cost: 1.288546e+00Iteration     2 | Cost: 1.270423e+00Iteration     3 | Cost: 1.231064e+00Iteration     4 | Cost: 1.193012e+00Iteration     5 | Cost: 1.157369e+00
+Lmabda: 8.858668 Iteraciones: 20 Porcentaje de aciertos: 90.200000
+Iteration     1 | Cost: 1.144155e+00Iteration     2 | Cost: 1.129936e+00Iteration     3 | Cost: 1.120056e+00Iteration     4 | Cost: 1.112830e+00Iteration     5 | Cost: 1.106748e+00
+Lmabda: 8.858668 Iteraciones: 25 Porcentaje de aciertos: 90.900000
+Iteration     1 | Cost: 1.104494e+00Iteration     2 | Cost: 1.097430e+00Iteration     3 | Cost: 1.093721e+00Iteration     4 | Cost: 1.091656e+00Iteration     5 | Cost: 1.082972e+00
+Lmabda: 8.858668 Iteraciones: 30 Porcentaje de aciertos: 91.380000
+Iteration     1 | Cost: 1.079652e+00Iteration     2 | Cost: 1.075307e+00Iteration     3 | Cost: 1.072496e+00Iteration     4 | Cost: 1.069425e+00Iteration     5 | Cost: 1.062240e+00
+Lmabda: 8.858668 Iteraciones: 35 Porcentaje de aciertos: 92.060000
+Iteration     1 | Cost: 1.059141e+00Iteration     2 | Cost: 1.055793e+00Iteration     3 | Cost: 1.053878e+00Iteration     4 | Cost: 1.050982e+00Iteration     5 | Cost: 1.049737e+00
+Lmabda: 8.858668 Iteraciones: 40 Porcentaje de aciertos: 92.420000
+Iteration     1 | Cost: 1.048689e+00Iteration     2 | Cost: 1.041816e+00Iteration     3 | Cost: 1.038244e+00Iteration     4 | Cost: 1.034470e+00Iteration     5 | Cost: 1.019873e+00
+Lmabda: 8.858668 Iteraciones: 45 Porcentaje de aciertos: 92.860000
+Iteration     1 | Cost: 1.015328e+00Iteration     2 | Cost: 1.011824e+00Iteration     3 | Cost: 1.010522e+00Iteration     4 | Cost: 1.009771e+00Iteration     5 | Cost: 1.009238e+00
+Lmabda: 8.858668 Iteraciones: 50 Porcentaje de aciertos: 93.060000
+Iteration     1 | Cost: 1.008896e+00Iteration     2 | Cost: 1.008326e+00Iteration     3 | Cost: 1.006749e+00Iteration     4 | Cost: 1.002732e+00Iteration     5 | Cost: 9.975693e-01
+Lmabda: 8.858668 Iteraciones: 55 Porcentaje de aciertos: 93.480000
+Iteration     1 | Cost: 9.960103e-01Iteration     2 | Cost: 9.937725e-01Iteration     3 | Cost: 9.931008e-01Iteration     4 | Cost: 9.928265e-01Iteration     5 | Cost: 9.916906e-01
+Lmabda: 8.858668 Iteraciones: 60 Porcentaje de aciertos: 93.380000
+Iteration     1 | Cost: 9.914690e-01Iteration     2 | Cost: 9.910071e-01Iteration     3 | Cost: 9.903458e-01Iteration     4 | Cost: 9.900276e-01Iteration     5 | Cost: 9.897892e-01
+Lmabda: 8.858668 Iteraciones: 65 Porcentaje de aciertos: 93.460000
+Iteration     1 | Cost: 9.892352e-01Iteration     2 | Cost: 9.889713e-01Iteration     3 | Cost: 9.880356e-01Iteration     4 | Cost: 9.852978e-01Iteration     5 | Cost: 9.818484e-01
+Lmabda: 8.858668 Iteraciones: 70 Porcentaje de aciertos: 93.620000
+Iteration     1 | Cost: 9.806671e-01Iteration     2 | Cost: 9.802395e-01Iteration     3 | Cost: 9.799567e-01Iteration     4 | Cost: 9.798076e-01Iteration     5 | Cost: 9.793664e-01
+Lmabda: 8.858668 Iteraciones: 75 Porcentaje de aciertos: 93.620000
+Iteration     1 | Cost: 9.790840e-01Iteration     2 | Cost: 9.788553e-01Iteration     3 | Cost: 9.787386e-01Iteration     4 | Cost: 9.783236e-01Iteration     5 | Cost: 9.779764e-01
+Lmabda: 8.858668 Iteraciones: 80 Porcentaje de aciertos: 93.660000
+Iteration     1 | Cost: 9.778059e-01Iteration     2 | Cost: 9.775078e-01Iteration     3 | Cost: 9.773513e-01Iteration     4 | Cost: 9.772994e-01Iteration     5 | Cost: 9.770652e-01
+Lmabda: 8.858668 Iteraciones: 85 Porcentaje de aciertos: 93.660000
+Iteration     1 | Cost: 9.768486e-01Iteration     2 | Cost: 9.766526e-01Iteration     3 | Cost: 9.764804e-01Iteration     4 | Cost: 9.762529e-01Iteration     5 | Cost: 9.760482e-01
+Lmabda: 8.858668 Iteraciones: 90 Porcentaje de aciertos: 93.680000
+Iteration     1 | Cost: 9.759722e-01Iteration     2 | Cost: 9.757388e-01Iteration     3 | Cost: 9.755824e-01Iteration     4 | Cost: 9.750234e-01Iteration     5 | Cost: 9.730322e-01
+Lmabda: 8.858668 Iteraciones: 95 Porcentaje de aciertos: 93.820000
+Iteration     1 | Cost: 9.725509e-01Iteration     2 | Cost: 9.720915e-01Iteration     3 | Cost: 9.719790e-01Iteration     4 | Cost: 9.718491e-01Iteration     5 | Cost: 9.716242e-01
+Lmabda: 8.858668 Iteraciones: 100 Porcentaje de aciertos: 93.820000
+Iteration     1 | Cost: 3.382232e+00Iteration     2 | Cost: 3.320520e+00Iteration     3 | Cost: 3.288487e+00Iteration     4 | Cost: 2.820079e+00Iteration     5 | Cost: 2.517008e+00
+Lmabda: 16.237767 Iteraciones: 5 Porcentaje de aciertos: 57.400000
+Iteration     1 | Cost: 2.371844e+00Iteration     2 | Cost: 2.054731e+00Iteration     3 | Cost: 1.947250e+00Iteration     4 | Cost: 1.820145e+00Iteration     5 | Cost: 1.742948e+00
+Lmabda: 16.237767 Iteraciones: 10 Porcentaje de aciertos: 81.400000
+Iteration     1 | Cost: 1.712009e+00Iteration     2 | Cost: 1.635459e+00Iteration     3 | Cost: 1.578035e+00Iteration     4 | Cost: 1.554493e+00Iteration     5 | Cost: 1.531504e+00
+Lmabda: 16.237767 Iteraciones: 15 Porcentaje de aciertos: 86.620000
+Iteration     1 | Cost: 1.521440e+00Iteration     2 | Cost: 1.491445e+00Iteration     3 | Cost: 1.480367e+00Iteration     4 | Cost: 1.457395e+00Iteration     5 | Cost: 1.436148e+00
+Lmabda: 16.237767 Iteraciones: 20 Porcentaje de aciertos: 88.840000
+Iteration     1 | Cost: 1.427673e+00Iteration     2 | Cost: 1.406681e+00Iteration     3 | Cost: 1.400541e+00Iteration     4 | Cost: 1.393446e+00Iteration     5 | Cost: 1.380814e+00
+Lmabda: 16.237767 Iteraciones: 25 Porcentaje de aciertos: 89.780000
+Iteration     1 | Cost: 1.375382e+00Iteration     2 | Cost: 1.370081e+00Iteration     3 | Cost: 1.364596e+00Iteration     4 | Cost: 1.359873e+00Iteration     5 | Cost: 1.346524e+00
+Lmabda: 16.237767 Iteraciones: 30 Porcentaje de aciertos: 90.720000
+Iteration     1 | Cost: 1.339347e+00Iteration     2 | Cost: 1.334159e+00Iteration     3 | Cost: 1.330718e+00Iteration     4 | Cost: 1.328485e+00Iteration     5 | Cost: 1.327413e+00
+Lmabda: 16.237767 Iteraciones: 35 Porcentaje de aciertos: 90.840000
+Iteration     1 | Cost: 1.325433e+00Iteration     2 | Cost: 1.323934e+00Iteration     3 | Cost: 1.320670e+00Iteration     4 | Cost: 1.301092e+00Iteration     5 | Cost: 1.288975e+00
+Lmabda: 16.237767 Iteraciones: 40 Porcentaje de aciertos: 92.100000
+Iteration     1 | Cost: 1.286833e+00Iteration     2 | Cost: 1.284690e+00Iteration     3 | Cost: 1.283821e+00Iteration     4 | Cost: 1.283197e+00Iteration     5 | Cost: 1.281353e+00
+Lmabda: 16.237767 Iteraciones: 45 Porcentaje de aciertos: 92.300000
+Iteration     1 | Cost: 1.280918e+00Iteration     2 | Cost: 1.279822e+00Iteration     3 | Cost: 1.278360e+00Iteration     4 | Cost: 1.277813e+00Iteration     5 | Cost: 1.277455e+00
+Lmabda: 16.237767 Iteraciones: 50 Porcentaje de aciertos: 92.260000
+Iteration     1 | Cost: 1.276366e+00Iteration     2 | Cost: 1.275953e+00Iteration     3 | Cost: 1.274279e+00Iteration     4 | Cost: 1.272654e+00Iteration     5 | Cost: 1.269921e+00
+Lmabda: 16.237767 Iteraciones: 55 Porcentaje de aciertos: 92.300000
+Iteration     1 | Cost: 1.268628e+00Iteration     2 | Cost: 1.268277e+00Iteration     3 | Cost: 1.267993e+00Iteration     4 | Cost: 1.267109e+00Iteration     5 | Cost: 1.266056e+00
+Lmabda: 16.237767 Iteraciones: 60 Porcentaje de aciertos: 92.420000
+Iteration     1 | Cost: 1.265549e+00Iteration     2 | Cost: 1.264814e+00Iteration     3 | Cost: 1.264623e+00Iteration     4 | Cost: 1.263255e+00Iteration     5 | Cost: 1.261674e+00
+Lmabda: 16.237767 Iteraciones: 65 Porcentaje de aciertos: 92.300000
+Iteration     1 | Cost: 1.260746e+00Iteration     2 | Cost: 1.259686e+00Iteration     3 | Cost: 1.259442e+00Iteration     4 | Cost: 1.259141e+00Iteration     5 | Cost: 1.258787e+00
+Lmabda: 16.237767 Iteraciones: 70 Porcentaje de aciertos: 92.360000
+Iteration     1 | Cost: 1.258655e+00Iteration     2 | Cost: 1.258078e+00Iteration     3 | Cost: 1.257657e+00Iteration     4 | Cost: 1.256295e+00Iteration     5 | Cost: 1.253402e+00
+Lmabda: 16.237767 Iteraciones: 75 Porcentaje de aciertos: 92.260000
+Iteration     1 | Cost: 1.251997e+00Iteration     2 | Cost: 1.251336e+00Iteration     3 | Cost: 1.251107e+00Iteration     4 | Cost: 1.250827e+00Iteration     5 | Cost: 1.250666e+00
+Lmabda: 16.237767 Iteraciones: 80 Porcentaje de aciertos: 92.340000
+Iteration     1 | Cost: 1.250514e+00Iteration     2 | Cost: 1.250349e+00Iteration     3 | Cost: 1.250208e+00Iteration     4 | Cost: 1.248957e+00Iteration     5 | Cost: 1.240747e+00
+Lmabda: 16.237767 Iteraciones: 85 Porcentaje de aciertos: 92.380000
+Iteration     1 | Cost: 1.238671e+00Iteration     2 | Cost: 1.237584e+00Iteration     3 | Cost: 1.237318e+00Iteration     4 | Cost: 1.237156e+00Iteration     5 | Cost: 1.236832e+00
+Lmabda: 16.237767 Iteraciones: 90 Porcentaje de aciertos: 92.320000
+Iteration     1 | Cost: 1.236708e+00Iteration     2 | Cost: 1.236613e+00Iteration     3 | Cost: 1.236516e+00Iteration     4 | Cost: 1.236280e+00Iteration     5 | Cost: 1.235961e+00
+Lmabda: 16.237767 Iteraciones: 95 Porcentaje de aciertos: 92.320000
+Iteration     1 | Cost: 1.235811e+00Iteration     2 | Cost: 1.235652e+00Iteration     3 | Cost: 1.235557e+00Iteration     4 | Cost: 1.235521e+00Iteration     5 | Cost: 1.235397e+00
+Lmabda: 16.237767 Iteraciones: 100 Porcentaje de aciertos: 92.280000
+Iteration     1 | Cost: 3.454579e+00Iteration     2 | Cost: 3.390703e+00Iteration     3 | Cost: 3.353960e+00Iteration     4 | Cost: 2.960404e+00Iteration     5 | Cost: 2.742215e+00
+Lmabda: 29.763514 Iteraciones: 5 Porcentaje de aciertos: 52.020000
+Iteration     1 | Cost: 2.616405e+00Iteration     2 | Cost: 2.242470e+00Iteration     3 | Cost: 2.171680e+00Iteration     4 | Cost: 2.078993e+00Iteration     5 | Cost: 1.988216e+00
+Lmabda: 29.763514 Iteraciones: 10 Porcentaje de aciertos: 79.940000
+Iteration     1 | Cost: 1.965609e+00Iteration     2 | Cost: 1.901235e+00Iteration     3 | Cost: 1.866731e+00Iteration     4 | Cost: 1.837006e+00Iteration     5 | Cost: 1.803612e+00
+Lmabda: 29.763514 Iteraciones: 15 Porcentaje de aciertos: 86.740000
+Iteration     1 | Cost: 1.789748e+00Iteration     2 | Cost: 1.766829e+00Iteration     3 | Cost: 1.753662e+00Iteration     4 | Cost: 1.750820e+00Iteration     5 | Cost: 1.742463e+00
+Lmabda: 29.763514 Iteraciones: 20 Porcentaje de aciertos: 88.240000
+Iteration     1 | Cost: 1.737566e+00Iteration     2 | Cost: 1.724221e+00Iteration     3 | Cost: 1.718358e+00Iteration     4 | Cost: 1.709645e+00Iteration     5 | Cost: 1.703189e+00
+Lmabda: 29.763514 Iteraciones: 25 Porcentaje de aciertos: 89.420000
+Iteration     1 | Cost: 1.701054e+00Iteration     2 | Cost: 1.697865e+00Iteration     3 | Cost: 1.694865e+00Iteration     4 | Cost: 1.689583e+00Iteration     5 | Cost: 1.677110e+00
+Lmabda: 29.763514 Iteraciones: 30 Porcentaje de aciertos: 90.140000
+Iteration     1 | Cost: 1.667703e+00Iteration     2 | Cost: 1.663793e+00Iteration     3 | Cost: 1.661817e+00Iteration     4 | Cost: 1.659187e+00Iteration     5 | Cost: 1.658335e+00
+Lmabda: 29.763514 Iteraciones: 35 Porcentaje de aciertos: 90.200000
+Iteration     1 | Cost: 1.657866e+00Iteration     2 | Cost: 1.653893e+00Iteration     3 | Cost: 1.643656e+00Iteration     4 | Cost: 1.634313e+00Iteration     5 | Cost: 1.630009e+00
+Lmabda: 29.763514 Iteraciones: 40 Porcentaje de aciertos: 90.880000
+Iteration     1 | Cost: 1.628239e+00Iteration     2 | Cost: 1.624837e+00Iteration     3 | Cost: 1.623707e+00Iteration     4 | Cost: 1.622682e+00Iteration     5 | Cost: 1.621265e+00
+Lmabda: 29.763514 Iteraciones: 45 Porcentaje de aciertos: 91.060000
+Iteration     1 | Cost: 1.620619e+00Iteration     2 | Cost: 1.620181e+00Iteration     3 | Cost: 1.619527e+00Iteration     4 | Cost: 1.618789e+00Iteration     5 | Cost: 1.618001e+00
+Lmabda: 29.763514 Iteraciones: 50 Porcentaje de aciertos: 91.080000
+Iteration     1 | Cost: 1.617743e+00Iteration     2 | Cost: 1.617368e+00Iteration     3 | Cost: 1.616799e+00Iteration     4 | Cost: 1.615949e+00Iteration     5 | Cost: 1.614410e+00
+Lmabda: 29.763514 Iteraciones: 55 Porcentaje de aciertos: 90.880000
+Iteration     1 | Cost: 1.613989e+00Iteration     2 | Cost: 1.613722e+00Iteration     3 | Cost: 1.613303e+00Iteration     4 | Cost: 1.612838e+00Iteration     5 | Cost: 1.612649e+00
+Lmabda: 29.763514 Iteraciones: 60 Porcentaje de aciertos: 90.920000
+Iteration     1 | Cost: 1.612285e+00Iteration     2 | Cost: 1.612037e+00Iteration     3 | Cost: 1.610948e+00Iteration     4 | Cost: 1.606411e+00Iteration     5 | Cost: 1.605282e+00
+Lmabda: 29.763514 Iteraciones: 65 Porcentaje de aciertos: 91.060000
+Iteration     1 | Cost: 1.605108e+00Iteration     2 | Cost: 1.604682e+00Iteration     3 | Cost: 1.604053e+00Iteration     4 | Cost: 1.603579e+00Iteration     5 | Cost: 1.603040e+00
+Lmabda: 29.763514 Iteraciones: 70 Porcentaje de aciertos: 91.020000
+Iteration     1 | Cost: 1.602945e+00Iteration     2 | Cost: 1.602698e+00Iteration     3 | Cost: 1.602289e+00Iteration     4 | Cost: 1.600758e+00Iteration     5 | Cost: 1.599028e+00
+Lmabda: 29.763514 Iteraciones: 75 Porcentaje de aciertos: 91.080000
+Iteration     1 | Cost: 1.598252e+00Iteration     2 | Cost: 1.597913e+00Iteration     3 | Cost: 1.597734e+00Iteration     4 | Cost: 1.597360e+00Iteration     5 | Cost: 1.595708e+00
+Lmabda: 29.763514 Iteraciones: 80 Porcentaje de aciertos: 91.180000
+Iteration     1 | Cost: 1.595230e+00Iteration     2 | Cost: 1.594937e+00Iteration     3 | Cost: 1.594765e+00Iteration     4 | Cost: 1.594545e+00Iteration     5 | Cost: 1.594074e+00
+Lmabda: 29.763514 Iteraciones: 85 Porcentaje de aciertos: 90.940000
+Iteration     1 | Cost: 1.593870e+00Iteration     2 | Cost: 1.593724e+00Iteration     3 | Cost: 1.593542e+00Iteration     4 | Cost: 1.593341e+00Iteration     5 | Cost: 1.592842e+00
+Lmabda: 29.763514 Iteraciones: 90 Porcentaje de aciertos: 91.120000
+Iteration     1 | Cost: 1.592650e+00Iteration     2 | Cost: 1.592515e+00Iteration     3 | Cost: 1.592414e+00Iteration     4 | Cost: 1.592226e+00Iteration     5 | Cost: 1.592031e+00
+Lmabda: 29.763514 Iteraciones: 95 Porcentaje de aciertos: 91.020000
+Iteration     1 | Cost: 1.591869e+00Iteration     2 | Cost: 1.591800e+00Iteration     3 | Cost: 1.591729e+00Iteration     4 | Cost: 1.591470e+00Iteration     5 | Cost: 1.591351e+00
+Lmabda: 29.763514 Iteraciones: 100 Porcentaje de aciertos: 91.020000
+Iteration     1 | Cost: 3.585821e+00Iteration     2 | Cost: 3.515122e+00Iteration     3 | Cost: 3.459690e+00Iteration     4 | Cost: 3.111875e+00Iteration     5 | Cost: 3.009238e+00
+Lmabda: 54.555948 Iteraciones: 5 Porcentaje de aciertos: 50.900000
+Iteration     1 | Cost: 2.951083e+00Iteration     2 | Cost: 2.599548e+00Iteration     3 | Cost: 2.506062e+00Iteration     4 | Cost: 2.458603e+00Iteration     5 | Cost: 2.426689e+00
+Lmabda: 54.555948 Iteraciones: 10 Porcentaje de aciertos: 74.320000
+Iteration     1 | Cost: 2.378493e+00Iteration     2 | Cost: 2.324037e+00Iteration     3 | Cost: 2.292434e+00Iteration     4 | Cost: 2.268721e+00Iteration     5 | Cost: 2.236473e+00
+Lmabda: 54.555948 Iteraciones: 15 Porcentaje de aciertos: 81.480000
+Iteration     1 | Cost: 2.225994e+00Iteration     2 | Cost: 2.202092e+00Iteration     3 | Cost: 2.190602e+00Iteration     4 | Cost: 2.175267e+00Iteration     5 | Cost: 2.160002e+00
+Lmabda: 54.555948 Iteraciones: 20 Porcentaje de aciertos: 84.880000
+Iteration     1 | Cost: 2.156684e+00Iteration     2 | Cost: 2.146436e+00Iteration     3 | Cost: 2.142448e+00Iteration     4 | Cost: 2.131091e+00Iteration     5 | Cost: 2.117458e+00
+Lmabda: 54.555948 Iteraciones: 25 Porcentaje de aciertos: 86.860000
+Iteration     1 | Cost: 2.111551e+00Iteration     2 | Cost: 2.104692e+00Iteration     3 | Cost: 2.102658e+00Iteration     4 | Cost: 2.100031e+00Iteration     5 | Cost: 2.095045e+00
+Lmabda: 54.555948 Iteraciones: 30 Porcentaje de aciertos: 87.360000
+Iteration     1 | Cost: 2.093146e+00Iteration     2 | Cost: 2.091642e+00Iteration     3 | Cost: 2.089443e+00Iteration     4 | Cost: 2.088259e+00Iteration     5 | Cost: 2.086178e+00
+Lmabda: 54.555948 Iteraciones: 35 Porcentaje de aciertos: 87.500000
+Iteration     1 | Cost: 2.084202e+00Iteration     2 | Cost: 2.083237e+00Iteration     3 | Cost: 2.081813e+00Iteration     4 | Cost: 2.080570e+00Iteration     5 | Cost: 2.076289e+00
+Lmabda: 54.555948 Iteraciones: 40 Porcentaje de aciertos: 88.000000
+Iteration     1 | Cost: 2.075149e+00Iteration     2 | Cost: 2.074175e+00Iteration     3 | Cost: 2.069627e+00Iteration     4 | Cost: 2.062295e+00Iteration     5 | Cost: 2.058441e+00
+Lmabda: 54.555948 Iteraciones: 45 Porcentaje de aciertos: 87.920000
+Iteration     1 | Cost: 2.051645e+00Iteration     2 | Cost: 2.050720e+00Iteration     3 | Cost: 2.050403e+00Iteration     4 | Cost: 2.049025e+00Iteration     5 | Cost: 2.047926e+00
+Lmabda: 54.555948 Iteraciones: 50 Porcentaje de aciertos: 88.360000
+Iteration     1 | Cost: 2.047589e+00Iteration     2 | Cost: 2.047244e+00Iteration     3 | Cost: 2.046890e+00Iteration     4 | Cost: 2.045892e+00Iteration     5 | Cost: 2.040590e+00
+Lmabda: 54.555948 Iteraciones: 55 Porcentaje de aciertos: 88.160000
+Iteration     1 | Cost: 2.038166e+00Iteration     2 | Cost: 2.037141e+00Iteration     3 | Cost: 2.036474e+00Iteration     4 | Cost: 2.036162e+00Iteration     5 | Cost: 2.035131e+00
+Lmabda: 54.555948 Iteraciones: 60 Porcentaje de aciertos: 88.900000
+Iteration     1 | Cost: 2.034717e+00Iteration     2 | Cost: 2.034295e+00Iteration     3 | Cost: 2.033978e+00Iteration     4 | Cost: 2.033551e+00Iteration     5 | Cost: 2.033177e+00
+Lmabda: 54.555948 Iteraciones: 65 Porcentaje de aciertos: 88.640000
+Iteration     1 | Cost: 2.033033e+00Iteration     2 | Cost: 2.032590e+00Iteration     3 | Cost: 2.032403e+00Iteration     4 | Cost: 2.031647e+00Iteration     5 | Cost: 2.030885e+00
+Lmabda: 54.555948 Iteraciones: 70 Porcentaje de aciertos: 88.660000
+Iteration     1 | Cost: 2.030573e+00Iteration     2 | Cost: 2.030236e+00Iteration     3 | Cost: 2.029948e+00Iteration     4 | Cost: 2.029413e+00Iteration     5 | Cost: 2.028961e+00
+Lmabda: 54.555948 Iteraciones: 75 Porcentaje de aciertos: 88.400000
+Iteration     1 | Cost: 2.028582e+00Iteration     2 | Cost: 2.027734e+00Iteration     3 | Cost: 2.027324e+00Iteration     4 | Cost: 2.027157e+00Iteration     5 | Cost: 2.026809e+00
+Lmabda: 54.555948 Iteraciones: 80 Porcentaje de aciertos: 88.600000
+Iteration     1 | Cost: 2.026565e+00Iteration     2 | Cost: 2.026231e+00Iteration     3 | Cost: 2.026001e+00Iteration     4 | Cost: 2.025705e+00Iteration     5 | Cost: 2.025180e+00
+Lmabda: 54.555948 Iteraciones: 85 Porcentaje de aciertos: 88.480000
+Iteration     1 | Cost: 2.025017e+00Iteration     2 | Cost: 2.024680e+00Iteration     3 | Cost: 2.024394e+00Iteration     4 | Cost: 2.024251e+00Iteration     5 | Cost: 2.024048e+00
+Lmabda: 54.555948 Iteraciones: 90 Porcentaje de aciertos: 88.600000
+Iteration     1 | Cost: 2.023958e+00Iteration     2 | Cost: 2.023491e+00Iteration     3 | Cost: 2.023365e+00Iteration     4 | Cost: 2.022825e+00Iteration     5 | Cost: 2.021861e+00
+Lmabda: 54.555948 Iteraciones: 95 Porcentaje de aciertos: 88.460000
+Iteration     1 | Cost: 2.021428e+00Iteration     2 | Cost: 2.021290e+00Iteration     3 | Cost: 2.021115e+00Iteration     4 | Cost: 2.021043e+00Iteration     5 | Cost: 2.021019e+00
+Lmabda: 54.555948 Iteraciones: 100 Porcentaje de aciertos: 88.580000
+Iteration     1 | Cost: 3.821869e+00Iteration     2 | Cost: 3.727987e+00Iteration     3 | Cost: 3.612833e+00Iteration     4 | Cost: 3.298556e+00Iteration     5 | Cost: 3.257299e+00
+Lmabda: 100.000000 Iteraciones: 5 Porcentaje de aciertos: 25.520000
+Iteration     1 | Cost: 3.218211e+00Iteration     2 | Cost: 3.067584e+00Iteration     3 | Cost: 2.970722e+00Iteration     4 | Cost: 2.898329e+00Iteration     5 | Cost: 2.880493e+00
+Lmabda: 100.000000 Iteraciones: 10 Porcentaje de aciertos: 59.420000
+Iteration     1 | Cost: 2.825551e+00Iteration     2 | Cost: 2.750773e+00Iteration     3 | Cost: 2.737192e+00Iteration     4 | Cost: 2.702267e+00Iteration     5 | Cost: 2.672401e+00
+Lmabda: 100.000000 Iteraciones: 15 Porcentaje de aciertos: 74.840000
+Iteration     1 | Cost: 2.663071e+00Iteration     2 | Cost: 2.648414e+00Iteration     3 | Cost: 2.641661e+00Iteration     4 | Cost: 2.620267e+00Iteration     5 | Cost: 2.608139e+00
+Lmabda: 100.000000 Iteraciones: 20 Porcentaje de aciertos: 77.980000
+Iteration     1 | Cost: 2.602022e+00Iteration     2 | Cost: 2.590541e+00Iteration     3 | Cost: 2.587551e+00Iteration     4 | Cost: 2.578975e+00Iteration     5 | Cost: 2.573479e+00
+Lmabda: 100.000000 Iteraciones: 25 Porcentaje de aciertos: 81.800000
+Iteration     1 | Cost: 2.569551e+00Iteration     2 | Cost: 2.565281e+00Iteration     3 | Cost: 2.563535e+00Iteration     4 | Cost: 2.558227e+00Iteration     5 | Cost: 2.555111e+00
+Lmabda: 100.000000 Iteraciones: 30 Porcentaje de aciertos: 81.440000
+Iteration     1 | Cost: 2.553072e+00Iteration     2 | Cost: 2.549466e+00Iteration     3 | Cost: 2.547993e+00Iteration     4 | Cost: 2.544639e+00Iteration     5 | Cost: 2.536808e+00
+Lmabda: 100.000000 Iteraciones: 35 Porcentaje de aciertos: 84.100000
+Iteration     1 | Cost: 2.532207e+00Iteration     2 | Cost: 2.530039e+00Iteration     3 | Cost: 2.528676e+00Iteration     4 | Cost: 2.527391e+00Iteration     5 | Cost: 2.525936e+00
+Lmabda: 100.000000 Iteraciones: 40 Porcentaje de aciertos: 83.080000
+Iteration     1 | Cost: 2.525257e+00Iteration     2 | Cost: 2.523592e+00Iteration     3 | Cost: 2.522672e+00Iteration     4 | Cost: 2.521465e+00Iteration     5 | Cost: 2.519581e+00
+Lmabda: 100.000000 Iteraciones: 45 Porcentaje de aciertos: 83.860000
+Iteration     1 | Cost: 2.518628e+00Iteration     2 | Cost: 2.517806e+00Iteration     3 | Cost: 2.516772e+00Iteration     4 | Cost: 2.516307e+00Iteration     5 | Cost: 2.514561e+00
+Lmabda: 100.000000 Iteraciones: 50 Porcentaje de aciertos: 83.360000
+Iteration     1 | Cost: 2.513841e+00Iteration     2 | Cost: 2.513270e+00Iteration     3 | Cost: 2.512923e+00Iteration     4 | Cost: 2.512653e+00Iteration     5 | Cost: 2.511746e+00
+Lmabda: 100.000000 Iteraciones: 55 Porcentaje de aciertos: 83.620000
+Iteration     1 | Cost: 2.511327e+00Iteration     2 | Cost: 2.510892e+00Iteration     3 | Cost: 2.510639e+00Iteration     4 | Cost: 2.509844e+00Iteration     5 | Cost: 2.509030e+00
+Lmabda: 100.000000 Iteraciones: 60 Porcentaje de aciertos: 83.460000
+Iteration     1 | Cost: 2.508459e+00Iteration     2 | Cost: 2.507861e+00Iteration     3 | Cost: 2.507653e+00Iteration     4 | Cost: 2.506723e+00Iteration     5 | Cost: 2.506247e+00
+Lmabda: 100.000000 Iteraciones: 65 Porcentaje de aciertos: 83.680000
+Iteration     1 | Cost: 2.505821e+00Iteration     2 | Cost: 2.505281e+00Iteration     3 | Cost: 2.504915e+00Iteration     4 | Cost: 2.503612e+00Iteration     5 | Cost: 2.501841e+00
+Lmabda: 100.000000 Iteraciones: 70 Porcentaje de aciertos: 83.780000
+Iteration     1 | Cost: 2.500856e+00Iteration     2 | Cost: 2.500380e+00Iteration     3 | Cost: 2.500139e+00Iteration     4 | Cost: 2.499252e+00Iteration     5 | Cost: 2.498818e+00
+Lmabda: 100.000000 Iteraciones: 75 Porcentaje de aciertos: 83.940000
+Iteration     1 | Cost: 2.498566e+00Iteration     2 | Cost: 2.498098e+00Iteration     3 | Cost: 2.497811e+00Iteration     4 | Cost: 2.497552e+00Iteration     5 | Cost: 2.496753e+00
+Lmabda: 100.000000 Iteraciones: 80 Porcentaje de aciertos: 83.700000
+Iteration     1 | Cost: 2.496066e+00Iteration     2 | Cost: 2.495679e+00Iteration     3 | Cost: 2.495423e+00Iteration     4 | Cost: 2.495110e+00Iteration     5 | Cost: 2.494971e+00
+Lmabda: 100.000000 Iteraciones: 85 Porcentaje de aciertos: 83.940000
+Iteration     1 | Cost: 2.494885e+00Iteration     2 | Cost: 2.494632e+00Iteration     3 | Cost: 2.494370e+00Iteration     4 | Cost: 2.494108e+00Iteration     5 | Cost: 2.492360e+00
+Lmabda: 100.000000 Iteraciones: 90 Porcentaje de aciertos: 84.000000
+Iteration     1 | Cost: 2.491591e+00Iteration     2 | Cost: 2.491132e+00Iteration     3 | Cost: 2.491065e+00Iteration     4 | Cost: 2.490862e+00Iteration     5 | Cost: 2.490782e+00
+Lmabda: 100.000000 Iteraciones: 95 Porcentaje de aciertos: 84.020000
+Iteration     1 | Cost: 2.490737e+00Iteration     2 | Cost: 2.490575e+00Iteration     3 | Cost: 2.490229e+00Iteration     4 | Cost: 2.489247e+00Iteration     5 | Cost: 2.488594e+00
+Lmabda: 100.000000 Iteraciones: 100 Porcentaje de aciertos: 84.200000
